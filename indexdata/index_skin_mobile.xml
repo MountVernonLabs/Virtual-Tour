@@ -1,0 +1,3953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.19">
+
+    
+  <!-- Spot Style - Default Point Spot Style 1 -->
+
+
+  <style name="IconDefaultPointSpotStyle1"
+         url="%FIRSTXML%/spots/poi_user_defaultpoint0.png"
+         visible="false"
+         edge="center"
+         alpha="0.8"
+         onhover="onhoverIconDefaultPointSpotStyle1"
+         onover="onoverIconDefaultPointSpotStyle1"
+         onout="onoutIconDefaultPointSpotStyle1"
+
+         height="30"
+         width="30"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle1">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle1">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle1">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 2 -->
+
+
+  <style name="IconDefaultPointSpotStyle2"
+         url="%FIRSTXML%/spots/up_user_defaultpoint1.png"
+         visible="false"
+         edge="center"
+         alpha="0.8"
+         onhover="onhoverIconDefaultPointSpotStyle2"
+         onover="onoverIconDefaultPointSpotStyle2"
+         onout="onoutIconDefaultPointSpotStyle2"
+
+         height="30"
+         width="30"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle2">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle2">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle2">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 4 -->
+
+
+  <style name="IconDefaultPointSpotStyle4"
+         url="%FIRSTXML%/spots/right_user_defaultpoint3.png"
+         visible="false"
+         edge="center"
+         alpha="0.8"
+         onhover="onhoverIconDefaultPointSpotStyle4"
+         onover="onoverIconDefaultPointSpotStyle4"
+         onout="onoutIconDefaultPointSpotStyle4"
+
+         height="30"
+         width="30"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle4">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle4">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle4">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 5 -->
+
+
+  <style name="IconDefaultPointSpotStyle5"
+         url="%FIRSTXML%/spots/up_right_user_defaultpoint4.png"
+         visible="false"
+         edge="center"
+         alpha="0.8"
+         onhover="onhoverIconDefaultPointSpotStyle5"
+         onover="onoverIconDefaultPointSpotStyle5"
+         onout="onoutIconDefaultPointSpotStyle5"
+
+         height="30"
+         width="30"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle5">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle5">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle5">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 6 -->
+
+
+  <style name="IconDefaultPointSpotStyle6"
+         url="%FIRSTXML%/spots/left_user_defaultpoint5.png"
+         visible="false"
+         edge="center"
+         alpha="0.8"
+         onhover="onhoverIconDefaultPointSpotStyle6"
+         onover="onoverIconDefaultPointSpotStyle6"
+         onout="onoutIconDefaultPointSpotStyle6"
+
+         height="30"
+         width="30"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle6">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle6">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle6">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 7 -->
+
+
+  <style name="IconDefaultPointSpotStyle7"
+         url="%FIRSTXML%/spots/left_user_defaultpoint6.png"
+         visible="false"
+         edge="center"
+         alpha="0.8"
+         onhover="onhoverIconDefaultPointSpotStyle7"
+         onover="onoverIconDefaultPointSpotStyle7"
+         onout="onoutIconDefaultPointSpotStyle7"
+
+         height="30"
+         width="30"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle7">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle7">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle7">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 8 -->
+
+
+  <style name="IconDefaultPointSpotStyle8"
+         url="%FIRSTXML%/spots/down_left_user_defaultpoint7.png"
+         visible="false"
+         edge="center"
+         alpha="0.8"
+         onhover="onhoverIconDefaultPointSpotStyle8"
+         onover="onoverIconDefaultPointSpotStyle8"
+         onout="onoutIconDefaultPointSpotStyle8"
+
+         height="30"
+         width="30"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle8">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle8">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle8">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 9 -->
+
+
+  <style name="IconDefaultPointSpotStyle9"
+         url="%FIRSTXML%/spots/down_right_user_defaultpoint8.png"
+         visible="false"
+         edge="center"
+         alpha="0.8"
+         onhover="onhoverIconDefaultPointSpotStyle9"
+         onover="onoverIconDefaultPointSpotStyle9"
+         onout="onoutIconDefaultPointSpotStyle9"
+
+         height="30"
+         width="30"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle9">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle9">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle9">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 10 -->
+
+
+  <style name="IconDefaultPointSpotStyle10"
+         url="%FIRSTXML%/spots/down_right_user_defaultpoint9.png"
+         visible="false"
+         edge="center"
+         alpha="0.8"
+         onhover="onhoverIconDefaultPointSpotStyle10"
+         onover="onoverIconDefaultPointSpotStyle10"
+         onout="onoutIconDefaultPointSpotStyle10"
+
+         height="30"
+         width="30"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle10">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle10">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle10">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 13 -->
+
+
+  <style name="IconDefaultPointSpotStyle13"
+         url="%FIRSTXML%/spots/up_left_user_defaultpoint12.png"
+         visible="false"
+         edge="center"
+         alpha="0.8"
+         onhover="onhoverIconDefaultPointSpotStyle13"
+         onover="onoverIconDefaultPointSpotStyle13"
+         onout="onoutIconDefaultPointSpotStyle13"
+
+         height="30"
+         width="30"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle13">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle13">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle13">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 14 -->
+
+
+  <style name="IconDefaultPointSpotStyle14"
+         url="%FIRSTXML%/spots/video_play_user_defaultpoint13.png"
+         visible="false"
+         edge="center"
+         alpha="0.8"
+         onhover="onhoverIconDefaultPointSpotStyle14"
+         onover="onoverIconDefaultPointSpotStyle14"
+         onout="onoutIconDefaultPointSpotStyle14"
+
+         height="30"
+         width="30"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle14">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle14">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle14">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Default Point Spot Style 15 -->
+
+
+  <style name="IconDefaultPointSpotStyle15"
+         url="%FIRSTXML%/spots/video_play_user_defaultpoint14.png"
+         visible="false"
+         edge="center"
+         alpha="0.8"
+         onhover="onhoverIconDefaultPointSpotStyle15"
+         onover="onoverIconDefaultPointSpotStyle15"
+         onout="onoutIconDefaultPointSpotStyle15"
+
+         height="45"
+         width="45"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle15">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle15">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle15">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+<!-- ********** -->
+<!-- Colored Area -->
+<!-- id : coloredarea -->
+<!-- ********** -->
+
+  <layer name="coloredarea"
+         keep="true"
+         type="container"
+         align="bottomleft"
+         x="80"
+         y="0"
+         zorder="1"
+         height="40"
+         width="186"
+         
+         visible="false"
+         bgcolor="0x003030"
+         bgalpha="1"
+         />
+
+  <events name="coloredareaevents"
+    onTourStart="showcoloredarea();"
+    keep="true"/>
+
+  <action name="showcoloredarea">
+    set(layer[coloredarea].visible, true);
+  </action>
+
+
+  <!-- ************* -->
+  <!-- Panorama Menu -->
+  <!-- ************* -->
+
+<ptplugin name="panoramaMenu" engine="kolorMenu">
+	<settings>
+		<option name="position" value="topleft" type="string" />
+		<option name="orientation" value="vertical" type="string" />
+		<option name="sub_orientation" value="vertical" type="string" />
+		<option name="margin_x" value="6" type="int" />
+		<option name="margin_y" value="40" type="int" />
+		<option name="background_color" value="c9c9c9" type="string" />
+		<option name="background_alpha" value="0.30000762951094834" type="float" />
+		<option name="item_spacer" value="3" type="int" />
+		<option name="border_radius" value="0" type="int" />
+		<option name="full_size" value="false" type="bool" />
+		<option name="use_out_effect" value="true" type="bool" />
+		<option name="item_out_border_width" value="2" type="int" />
+		<option name="item_out_border_radius" value="0" type="int" />
+		<option name="item_out_border_color" value="ffffff" type="string" />
+		<option name="item_out_border_alpha" value="1" type="float" />
+		<option name="item_out_border_style" value="solid" type="string" />
+		<option name="item_hover_border_radius" value="0" type="int" />
+		<option name="item_hover_border_width" value="2" type="int" />
+		<option name="item_hover_border_style" value="solid" type="string" />
+		<option name="item_hover_border_color" value="ffffff" type="string" />
+		<option name="item_hover_border_alpha" value="1" type="float" />
+		<option name="item_out_bg_color" value="c9c9c9" type="string" />
+		<option name="item_out_bg_alpha" value="0.30000762951094834" type="float" />
+		<option name="item_out_font_color" value="f5f5f5" type="string" />
+		<option name="item_out_font_family" value="Trebuchet MS" type="string" />
+		<option name="item_out_font_size" value="12" type="int" />
+		<option name="item_out_font_weight" value="normal" type="string" />
+		<option name="item_out_font_style" value="normal" type="string" />
+		<option name="item_out_font_decoration" value="normal" type="string" />
+		<option name="use_hover_effect" value="true" type="bool" />
+		<option name="item_hover_bg_color" value="a8a8a8" type="string" />
+		<option name="item_hover_bg_alpha" value="0.30000762951094834" type="float" />
+		<option name="item_hover_font_color" value="f5f5f5" type="string" />
+		<option name="item_hover_font_family" value="Trebuchet MS" type="string" />
+		<option name="item_hover_font_size" value="12" type="int" />
+		<option name="item_hover_font_weight" value="normal" type="string" />
+		<option name="item_hover_font_style" value="normal" type="string" />
+		<option name="item_hover_font_decoration" value="normal" type="string" />
+		<option name="padding_main" value="4" type="int" />
+		<option name="padding_sub" value="4" type="int" />
+		<option name="force_font_menu" value="true" type="bool" />
+		<option name="force_font_menu_color" value="ffffff" type="string" />
+		<option name="force_font_menu_family" value="Trebuchet MS" type="string" />
+		<option name="force_font_menu_size" value="12" type="int" />
+		<option name="force_font_menu_weight" value="normal" type="string" />
+		<option name="force_font_menu_style" value="normal" type="string" />
+		<option name="force_font_menu_decoration" value="normal" type="string" />
+		<option name="force_font_submenu" value="true" type="bool" />
+		<option name="force_font_submenu_color" value="ffffff" type="string" />
+		<option name="force_font_submenu_family" value="Trebuchet MS" type="string" />
+		<option name="force_font_submenu_size" value="12" type="int" />
+		<option name="force_font_submenu_weight" value="normal" type="string" />
+		<option name="force_font_submenu_style" value="normal" type="string" />
+		<option name="force_font_submenu_decoration" value="normal" type="string" />
+		<option name="item_selected_color" value="013030" type="string" />
+		<option name="item_selected_alpha" value="0.90000762951094837" type="float" />
+		
+		<option name="item_selected_hover_color" value="002828" type="string" />
+		<option name="item_selected_hover_alpha" value="0.90000762951094837" type="float" />
+		
+		<option name="item_selected_font_color" value="ffffff" type="string" />
+		<option name="open_callback" value="invokeKrFunction('changeSelectedItem_panoramaMenu');" type="string" />
+		<option name="text_align" value="right" type="string" />
+		<option name="item_thumb_max_width" value="200" type="int" />
+		<option name="item_thumb_max_height" value="100" type="int" />
+		
+		<option name="item_title_max_width" value="150" type="int" />
+		<option name="item_title_max_width_limit" value="false" type="bool" />
+		<option name="item_title_tooltip" value="false" type="bool" />
+		
+		<option name="zorder" value="2" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+				<group name="group_1"
+						titleID="panogroup44_title"
+						thumbnail=""
+						subMenu="true"
+						cssClass="panogroup44"> 
+
+				
+				
+						<item name="group_1_item_1"
+							action="invokeKrFunction('mainloadscene', 'pano27')"
+								titleID="pano27_title"
+								thumbnail=""
+							cssClass="pano27">
+						
+						
+						</item>
+						<item name="group_1_item_2"
+							action="invokeKrFunction('mainloadscene', 'pano28')"
+								titleID="pano28_title"
+								thumbnail=""
+							cssClass="pano28">
+						
+						
+						</item>
+						<item name="group_1_item_3"
+							action="invokeKrFunction('mainloadscene', 'pano31')"
+								titleID="pano31_title"
+								thumbnail=""
+							cssClass="pano31">
+						
+						
+						</item>
+						<item name="group_1_item_4"
+							action="invokeKrFunction('mainloadscene', 'pano30')"
+								titleID="pano30_title"
+								thumbnail=""
+							cssClass="pano30">
+						
+						
+						</item>
+						<item name="group_1_item_5"
+							action="invokeKrFunction('mainloadscene', 'pano23')"
+								titleID="pano23_title"
+								thumbnail=""
+							cssClass="pano23">
+						
+						
+						</item>
+						<item name="group_1_item_6"
+							action="invokeKrFunction('mainloadscene', 'pano24')"
+								titleID="pano24_title"
+								thumbnail=""
+							cssClass="pano24">
+						
+						
+						</item>
+						<item name="group_1_item_7"
+							action="invokeKrFunction('mainloadscene', 'pano50')"
+								titleID="pano50_title"
+								thumbnail=""
+							cssClass="pano50">
+						
+						
+						</item>
+						<item name="group_1_item_8"
+							action="invokeKrFunction('mainloadscene', 'pano22')"
+								titleID="pano22_title"
+								thumbnail=""
+							cssClass="pano22">
+						
+						
+						</item>
+						<item name="group_1_item_9"
+							action="invokeKrFunction('mainloadscene', 'pano33')"
+								titleID="pano33_title"
+								thumbnail=""
+							cssClass="pano33">
+						
+						
+						</item>
+						<item name="group_1_item_10"
+							action="invokeKrFunction('mainloadscene', 'pano52')"
+								titleID="pano52_title"
+								thumbnail=""
+							cssClass="pano52">
+						
+						
+						</item>
+						<item name="group_1_item_11"
+							action="invokeKrFunction('mainloadscene', 'pano29')"
+								titleID="pano29_title"
+								thumbnail=""
+							cssClass="pano29">
+						
+						
+						</item>
+						<item name="group_1_item_12"
+							action="invokeKrFunction('mainloadscene', 'pano26')"
+								titleID="pano26_title"
+								thumbnail=""
+							cssClass="pano26">
+						
+						
+						</item>
+						<item name="group_1_item_13"
+							action="invokeKrFunction('mainloadscene', 'pano29586')"
+								titleID="pano29586_title"
+								thumbnail=""
+							cssClass="pano29586">
+						
+						
+						</item>
+						<item name="group_1_item_14"
+							action="invokeKrFunction('mainloadscene', 'pano20')"
+								titleID="pano20_title"
+								thumbnail=""
+							cssClass="pano20">
+						
+						
+						</item>
+						<item name="group_1_item_15"
+							action="invokeKrFunction('mainloadscene', 'pano32')"
+								titleID="pano32_title"
+								thumbnail=""
+							cssClass="pano32">
+						
+						
+						</item>
+						<item name="group_1_item_16"
+							action="invokeKrFunction('mainloadscene', 'pano18')"
+								titleID="pano18_title"
+								thumbnail=""
+							cssClass="pano18">
+						
+						
+						</item>
+						<item name="group_1_item_17"
+							action="invokeKrFunction('mainloadscene', 'pano21')"
+								titleID="pano21_title"
+								thumbnail=""
+							cssClass="pano21">
+						
+						
+						</item>
+						<item name="group_1_item_18"
+							action="invokeKrFunction('mainloadscene', 'pano19')"
+								titleID="pano19_title"
+								thumbnail=""
+							cssClass="pano19">
+						
+						
+						</item>
+					
+					
+					
+				</group>
+				<group name="group_2"
+						titleID="panogroup7007_title"
+						thumbnail=""
+						subMenu="true"
+						cssClass="panogroup7007"> 
+
+				
+				
+						<item name="group_2_item_1"
+							action="invokeKrFunction('mainloadscene', 'pano7006')"
+								titleID="pano7006_title"
+								thumbnail=""
+							cssClass="pano7006">
+						
+						
+						</item>
+						<item name="group_2_item_2"
+							action="invokeKrFunction('mainloadscene', 'pano29591')"
+								titleID="pano29591_title"
+								thumbnail=""
+							cssClass="pano29591">
+						
+						
+						</item>
+						<item name="group_2_item_3"
+							action="invokeKrFunction('mainloadscene', 'pano7028')"
+								titleID="pano7028_title"
+								thumbnail=""
+							cssClass="pano7028">
+						
+						
+						</item>
+						<item name="group_2_item_4"
+							action="invokeKrFunction('mainloadscene', 'pano20544')"
+								titleID="pano20544_title"
+								thumbnail=""
+							cssClass="pano20544">
+						
+						
+						</item>
+						<item name="group_2_item_5"
+							action="invokeKrFunction('mainloadscene', 'pano29587')"
+								titleID="pano29587_title"
+								thumbnail=""
+							cssClass="pano29587">
+						
+						
+						</item>
+						<item name="group_2_item_6"
+							action="invokeKrFunction('mainloadscene', 'pano29590')"
+								titleID="pano29590_title"
+								thumbnail=""
+							cssClass="pano29590">
+						
+						
+						</item>
+						<item name="group_2_item_7"
+							action="invokeKrFunction('mainloadscene', 'pano20540')"
+								titleID="pano20540_title"
+								thumbnail=""
+							cssClass="pano20540">
+						
+						
+						</item>
+						<item name="group_2_item_8"
+							action="invokeKrFunction('mainloadscene', 'pano7008')"
+								titleID="pano7008_title"
+								thumbnail=""
+							cssClass="pano7008">
+						
+						
+						</item>
+						<item name="group_2_item_9"
+							action="invokeKrFunction('mainloadscene', 'pano20542')"
+								titleID="pano20542_title"
+								thumbnail=""
+							cssClass="pano20542">
+						
+						
+						</item>
+						<item name="group_2_item_10"
+							action="invokeKrFunction('mainloadscene', 'pano7036')"
+								titleID="pano7036_title"
+								thumbnail=""
+							cssClass="pano7036">
+						
+						
+						</item>
+						<item name="group_2_item_11"
+							action="invokeKrFunction('mainloadscene', 'pano7038')"
+								titleID="pano7038_title"
+								thumbnail=""
+							cssClass="pano7038">
+						
+						
+						</item>
+						<item name="group_2_item_12"
+							action="invokeKrFunction('mainloadscene', 'pano29592')"
+								titleID="pano29592_title"
+								thumbnail=""
+							cssClass="pano29592">
+						
+						
+						</item>
+						<item name="group_2_item_13"
+							action="invokeKrFunction('mainloadscene', 'pano7042')"
+								titleID="pano7042_title"
+								thumbnail=""
+							cssClass="pano7042">
+						
+						
+						</item>
+						<item name="group_2_item_14"
+							action="invokeKrFunction('mainloadscene', 'pano7040')"
+								titleID="pano7040_title"
+								thumbnail=""
+							cssClass="pano7040">
+						
+						
+						</item>
+						<item name="group_2_item_15"
+							action="invokeKrFunction('mainloadscene', 'pano7026')"
+								titleID="pano7026_title"
+								thumbnail=""
+							cssClass="pano7026">
+						
+						
+						</item>
+					
+					
+					
+				</group>
+				<group name="group_3"
+						titleID="panogroup57_title"
+						thumbnail=""
+						subMenu="true"
+						cssClass="panogroup57"> 
+
+				
+				
+						<item name="group_3_item_1"
+							action="invokeKrFunction('mainloadscene', 'pano7014')"
+								titleID="pano7014_title"
+								thumbnail=""
+							cssClass="pano7014">
+						
+						
+						</item>
+						<item name="group_3_item_2"
+							action="invokeKrFunction('mainloadscene', 'pano7010')"
+								titleID="pano7010_title"
+								thumbnail=""
+							cssClass="pano7010">
+						
+						
+						</item>
+						<item name="group_3_item_3"
+							action="invokeKrFunction('mainloadscene', 'pano88')"
+								titleID="pano88_title"
+								thumbnail=""
+							cssClass="pano88">
+						
+						
+						</item>
+						<item name="group_3_item_4"
+							action="invokeKrFunction('mainloadscene', 'pano90')"
+								titleID="pano90_title"
+								thumbnail=""
+							cssClass="pano90">
+						
+						
+						</item>
+						<item name="group_3_item_5"
+							action="invokeKrFunction('mainloadscene', 'pano7012')"
+								titleID="pano7012_title"
+								thumbnail=""
+							cssClass="pano7012">
+						
+						
+						</item>
+						<item name="group_3_item_6"
+							action="invokeKrFunction('mainloadscene', 'pano86')"
+								titleID="pano86_title"
+								thumbnail=""
+							cssClass="pano86">
+						
+						
+						</item>
+						<item name="group_3_item_7"
+							action="invokeKrFunction('mainloadscene', 'pano94')"
+								titleID="pano94_title"
+								thumbnail=""
+							cssClass="pano94">
+						
+						
+						</item>
+						<item name="group_3_item_8"
+							action="invokeKrFunction('mainloadscene', 'pano96')"
+								titleID="pano96_title"
+								thumbnail=""
+							cssClass="pano96">
+						
+						
+						</item>
+						<item name="group_3_item_9"
+							action="invokeKrFunction('mainloadscene', 'pano98')"
+								titleID="pano98_title"
+								thumbnail=""
+							cssClass="pano98">
+						
+						
+						</item>
+						<item name="group_3_item_10"
+							action="invokeKrFunction('mainloadscene', 'pano102')"
+								titleID="pano102_title"
+								thumbnail=""
+							cssClass="pano102">
+						
+						
+						</item>
+						<item name="group_3_item_11"
+							action="invokeKrFunction('mainloadscene', 'pano100')"
+								titleID="pano100_title"
+								thumbnail=""
+							cssClass="pano100">
+						
+						
+						</item>
+						<item name="group_3_item_12"
+							action="invokeKrFunction('mainloadscene', 'pano92')"
+								titleID="pano92_title"
+								thumbnail=""
+							cssClass="pano92">
+						
+						
+						</item>
+						<item name="group_3_item_13"
+							action="invokeKrFunction('mainloadscene', 'pano104')"
+								titleID="pano104_title"
+								thumbnail=""
+							cssClass="pano104">
+						
+						
+						</item>
+						<item name="group_3_item_14"
+							action="invokeKrFunction('mainloadscene', 'pano29588')"
+								titleID="pano29588_title"
+								thumbnail=""
+							cssClass="pano29588">
+						
+						
+						</item>
+					
+					
+					
+				</group>
+				<group name="group_4"
+						titleID="panogroup59_title"
+						thumbnail=""
+						subMenu="true"
+						cssClass="panogroup59"> 
+
+				
+				
+						<item name="group_4_item_1"
+							action="invokeKrFunction('mainloadscene', 'pano58')"
+								titleID="pano58_title"
+								thumbnail=""
+							cssClass="pano58">
+						
+						
+						</item>
+						<item name="group_4_item_2"
+							action="invokeKrFunction('mainloadscene', 'pano106')"
+								titleID="pano106_title"
+								thumbnail=""
+							cssClass="pano106">
+						
+						
+						</item>
+						<item name="group_4_item_3"
+							action="invokeKrFunction('mainloadscene', 'pano108')"
+								titleID="pano108_title"
+								thumbnail=""
+							cssClass="pano108">
+						
+						
+						</item>
+						<item name="group_4_item_4"
+							action="invokeKrFunction('mainloadscene', 'pano110')"
+								titleID="pano110_title"
+								thumbnail=""
+							cssClass="pano110">
+						
+						
+						</item>
+						<item name="group_4_item_5"
+							action="invokeKrFunction('mainloadscene', 'pano112')"
+								titleID="pano112_title"
+								thumbnail=""
+							cssClass="pano112">
+						
+						
+						</item>
+						<item name="group_4_item_6"
+							action="invokeKrFunction('mainloadscene', 'pano114')"
+								titleID="pano114_title"
+								thumbnail=""
+							cssClass="pano114">
+						
+						
+						</item>
+					
+					
+					
+				</group>
+				<group name="group_5"
+						titleID="panogroup150_title"
+						thumbnail=""
+						subMenu="true"
+						cssClass="panogroup150"> 
+
+				
+				
+						<item name="group_5_item_1"
+							action="invokeKrFunction('mainloadscene', 'pano149')"
+								titleID="pano149_title"
+								thumbnail=""
+							cssClass="pano149">
+						
+						
+						</item>
+						<item name="group_5_item_2"
+							action="invokeKrFunction('mainloadscene', 'pano151')"
+								titleID="pano151_title"
+								thumbnail=""
+							cssClass="pano151">
+						
+						
+						</item>
+						<item name="group_5_item_3"
+							action="invokeKrFunction('mainloadscene', 'pano153')"
+								titleID="pano153_title"
+								thumbnail=""
+							cssClass="pano153">
+						
+						
+						</item>
+						<item name="group_5_item_4"
+							action="invokeKrFunction('mainloadscene', 'pano155')"
+								titleID="pano155_title"
+								thumbnail=""
+							cssClass="pano155">
+						
+						
+						</item>
+						<item name="group_5_item_5"
+							action="invokeKrFunction('mainloadscene', 'pano157')"
+								titleID="pano157_title"
+								thumbnail=""
+							cssClass="pano157">
+						
+						
+						</item>
+						<item name="group_5_item_6"
+							action="invokeKrFunction('mainloadscene', 'pano159')"
+								titleID="pano159_title"
+								thumbnail=""
+							cssClass="pano159">
+						
+						
+						</item>
+						<item name="group_5_item_7"
+							action="invokeKrFunction('mainloadscene', 'pano161')"
+								titleID="pano161_title"
+								thumbnail=""
+							cssClass="pano161">
+						
+						
+						</item>
+					
+					
+					
+				</group>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorMenuJsReady_panoramaMenu">
+	set(ptplugin[panoramaMenu].jsready, true);
+</action>
+
+<action name="showKolorMenu_panoramaMenu">
+	
+	ifnot(ptplugin[panoramaMenu].isOpen,
+		stopdelayedcall(delay_panoramaMenu);
+		set(ptplugin[panoramaMenu].isOpen, true);
+		set(ptplugin[panoramaMenu].displayed, true);
+		js(openKolorMenu(panoramaMenu));
+	,
+		if(ptplugin[panoramaMenu].jsready,
+			stopdelayedcall(delay_panoramaMenu);
+			set(ptplugin[panoramaMenu].displayed, true);
+			js(invokePluginFunction(panoramaMenu, showKolorMenu));
+		,
+			delayedcall(delay_panoramaMenu, 0.1, showKolorMenu_panoramaMenu(););
+		);
+	);
+</action>
+
+<action name="hideKolorMenu_panoramaMenu">
+	if(ptplugin[panoramaMenu].jsready,
+		stopdelayedcall(delay_panoramaMenu);
+		set(ptplugin[panoramaMenu].displayed, false);
+		js(invokePluginFunction(panoramaMenu, hideKolorMenu));
+	,
+		delayedcall(delay_panoramaMenu, 0.1, hideKolorMenu_panoramaMenu(););
+	);
+</action>
+
+<action name="changeSelectedItem_panoramaMenu">
+	js(invokePluginFunction(panoramaMenu, changeSelectedItem, get(xml.scene)));
+</action>
+
+<action name="changeLanguage_panoramaMenu">
+	if(ptplugin[panoramaMenu].jsready,
+		stopdelayedcall(delay_panoramaMenu);
+		js(invokePluginFunction(panoramaMenu, changeLanguage));
+	,
+		delayedcall(delay_panoramaMenu, 0.1, changeLanguage_panoramaMenu(););
+	);
+</action>
+
+
+<events name="kolorMenuEvents_panoramaMenu" 
+	keep="true"
+	
+	
+	hidetourcontrols="hideKolorMenu_panoramaMenu();"
+	showtourcontrols="showKolorMenu_panoramaMenu();"
+	onnewpano="changeSelectedItem_panoramaMenu();"
+	changetourlanguage="changeLanguage_panoramaMenu"
+/>
+
+<!-- ********** -->
+<!-- Title -->
+<!-- id : title -->
+<!-- ********** -->
+
+  <events name="title_events" 
+    onTourStart="showtitle();"
+    onnewpano="updatetitle();"
+    changetourlanguage="changeLanguagetitle"
+    keep="true" />
+
+  <action name="showtitle">set(layer[title].visible, true );</action>
+
+  <action name="changeLanguagetitle">
+    updatetitle();
+  </action>
+
+  <action name="updatetitle">
+    getmessage(layer[title].html, get(scene[get(xml.scene)].titleid));
+    escape(layer[title].html);
+  </action>
+  <action name="titleOnClick">
+
+if(ptplugin[panoramaMenu].displayed,hideKolorMenu_panoramaMenu();,showKolorMenu_panoramaMenu(););
+
+
+  </action>
+  <layer name="title" keep="true" zorder="3"
+         type="text"
+         align="bottomleft" x="88" y="10"
+         bg="false"
+         bgborder="0"
+         alpha="1"
+         visible="false"
+         capture="true" handcursor="true" enabled="true"
+         onclick="titleOnClick"
+         interactivecontent="false" 
+         txtshadow="1.0 1.0 4.0 0x000000 1.0"
+         css="text-align:left;
+              color:#ffffff;
+              font-family:Trebuchet MS;
+              font-size:13px;"/>
+
+<!-- ********** -->
+<!-- Logo -->
+<!-- id : logo -->
+<!-- ********** -->
+
+  <layer align="topleft"
+         x="3"
+         y="6"
+         zorder="4"
+         name="logo"
+         keep="true"
+         visible="false"
+         capture="false"
+
+         url="%FIRSTXML%/graphics/logo/logo.png" 
+         onclick="
+getmessage(urltoopen,logowebsiteurl);openurl(get(urltoopen),_blank);
+"
+
+         height="30"
+         width="173"
+
+         />
+
+  <events name="logoevents" 
+    onTourStart="showlogo();"
+    keep="true" />
+
+  <action name="hidelogo">
+    set(layer[logo].visible, false);
+  </action>
+  <action name="showlogo">
+      set(layer[logo].visible, true);
+  </action>
+
+
+
+
+<!-- ********** -->
+<!-- Button12 -->
+<!-- id : button12 -->
+<!-- ********** -->
+
+  <layer name="button12"
+         keep="true"
+         url="%FIRSTXML%/graphics/button12/hullfilm_logo.jpg"
+         align="bottomleft"
+         x="0"
+         y="0"
+         zorder="5"
+         visible="false"
+         handcursor="false"
+         enabled="false"
+         height="40"
+         width="80"
+         />
+
+
+
+
+  <events name="button12events"
+    onTourStart="showbutton12();"
+    keep="true" />
+  <action name="hidebutton12">set(layer[button12].visible, false);</action>
+  <action name="showbutton12">set(layer[button12].visible, true);</action>
+
+
+<!-- ********** -->
+<!-- Toggle Button2 -->
+<!-- id : togglebutton2 -->
+<!-- ********** -->
+
+
+
+  <layer name="togglebutton2"
+         keep="true"
+         url="%FIRSTXML%/graphics/togglebutton2/poi_off.png" 
+         align="bottomright"
+         x="4"
+         y="155"
+         zorder="6"
+         tooltip=""
+         onhover="togglebutton2OnHover"
+         state="true"
+         onclick="togglebutton2OnClick"
+         onout="hideTooltip();"
+         height="75"
+         width="90"
+         visible="false"
+         />
+
+  <action name="togglebutton2OnHover">
+    if (state,
+      set(tooltip, togglebutton2firsttooltip);
+     ,
+      set(tooltip, togglebutton2secondtooltip);
+    );
+    if (tooltip != "", showTooltip('plugin'););
+  </action>
+  <action name="togglebutton2OnClick">
+    if (state,
+      set(state, false);hideHotspots();
+
+
+      set(url,%FIRSTXML%/graphics/togglebutton2/poi_on.png);
+     ,
+      set(state, true);showHotspots();
+
+
+      set(url,%FIRSTXML%/graphics/togglebutton2/poi_off.png);
+    );
+  </action>
+
+  <events name="togglebutton2events" 
+    hidetourcontrols="hidetogglebutton2();" 
+    showtourcontrols="showtogglebutton2();" 
+    keep="true" />
+  <action name="hidetogglebutton2">set(layer[togglebutton2].visible, false);</action>
+  <action name="showtogglebutton2">if(tour_displaycontrols,set(layer[togglebutton2].visible, true);,hidetogglebutton2(););</action>
+
+
+<!-- ********** -->
+<!-- Toggle Button3 -->
+<!-- id : togglebutton3 -->
+<!-- ********** -->
+
+
+
+  <layer name="togglebutton3"
+         keep="true"
+         url="%FIRSTXML%/graphics/togglebutton3/floorplan_on1.png" 
+         align="bottomright"
+         x="4"
+         y="75"
+         zorder="7"
+         tooltip=""
+         onhover="togglebutton3OnHover"
+         state="true"
+         onclick="togglebutton3OnClick"
+         onout="hideTooltip();"
+         height="75"
+         width="90"
+         visible="false"
+         />
+
+  <action name="togglebutton3OnHover">
+    if (state,
+      set(tooltip, togglebutton3firsttooltip);
+     ,
+      set(tooltip, togglebutton3secondtooltip);
+    );
+    if (tooltip != "", showTooltip('plugin'););
+  </action>
+  <action name="togglebutton3OnClick">
+    if (state,
+      set(state, false);showFloorplan();
+
+
+
+      set(url,%FIRSTXML%/graphics/togglebutton3/floorplan_on1.png);
+     ,
+      set(state, true);showFloorplan();
+
+
+
+      set(url,%FIRSTXML%/graphics/togglebutton3/floorplan_on1.png);
+    );
+  </action>
+
+  <events name="togglebutton3events" 
+    hidetourcontrols="hidetogglebutton3();" 
+    showtourcontrols="showtogglebutton3();" 
+    keep="true" />
+  <action name="hidetogglebutton3">set(layer[togglebutton3].visible, false);</action>
+  <action name="showtogglebutton3">if(tour_displaycontrols,set(layer[togglebutton3].visible, true);,hidetogglebutton3(););</action>
+
+
+<!-- ********** -->
+<!-- PanotourMaps -->
+<!-- id : panotourmaps -->
+<!-- ********** -->
+
+		<ptplugin name="panotourmaps" lat="38.7078018188" lng="-77.0860290527" zoom="17" maptypelayer="road" openatstart="false" state="false" bgcolor="f2f2f2" zorder="8" centeronspots="true" engine="KolorMap">
+	
+		<radar visible="true" radius="8000" linktozoom="true" quality="8" linecolor="032424" lineopacity="0.80000000000000004" linewidth="4" fillcolor="ffffff" fillopacity="0.40000000000000002" />
+		
+		<markers animation="bounce" />
+		
+		
+		<controls zoom="true" pan="false" scale="false" maptype="true" overview="false">
+			<ui draggable="true" scrollable="false" dblclick="false" />
+			<specific />
+		</controls>
+		
+		<markerSelected name="" heading="" fov="" />
+		
+		
+			<!-- PanotourMaps markers counter : 1 -->
+
+
+
+				<marker name="spotmap204" 
+					lat="38.7076568604" 
+					lng="-77.0860977173" 
+					heading="-80.000000000000014" 
+					draggable="false" 
+					animated="true" 
+					desc="spotmap204_tooltip" 
+					desctype="info" 
+					onhover="true" 
+					isscene="true" 
+					scene="pano28" 
+					hasradar="true" 
+					jsclick="spotmap204ActionSpotMap">
+					<markericon url="spots/7_user_defaultmap1.png" iconwidth="22" iconheight="22" shadow="false" iconanchor="center" />
+				</marker>
+		
+
+
+		
+	</ptplugin>
+	
+	<action name="kolorMapJsReady_panotourmaps">
+		set(ptplugin[panotourmaps].jsready, true);
+	</action>
+	
+	<ptplugin name="panotourmapsArea" engine="kolorArea">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="start_position" value="bottom" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="background_color" value="ece9e0" type="string" />
+		<option name="background_alpha" value="0.90000762951094837" type="float" />
+		<option name="padding" value="10" type="int" />
+		<option name="topleft_radius" value="5" type="int" />
+		<option name="topright_radius" value="5" type="int" />
+		<option name="bottomleft_radius" value="5" type="int" />
+		<option name="bottomright_radius" value="5" type="int" />
+		<option name="area_border_width" value="5" type="int" />
+		<option name="area_border_color" value="ffffff" type="string" />
+		<option name="area_border_alpha" value="1" type="float" />
+		<option name="display_title" value="true" type="bool" />
+		<option name="title" value="panotourmapsmap_title" type="string" />
+		<option name="title_font" value="Helvetica" type="string" />
+		<option name="title_size" value="14" type="int" />
+		<option name="title_weight" value="bold" type="string" />
+		<option name="title_decoration" value="normal" type="string" />
+		<option name="title_color" value="000000" type="string" />
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_text" value="panotourmapsdisplay_close_text" type="string" />
+
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="222222" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="area_width" value="98" type="int" />
+		<option name="area_height" value="98" type="int" />
+		<option name="area_width_unit" value="percent" type="string" />
+		<option name="area_height_unit" value="percent" type="string" />
+		<option name="animation" value="false" type="bool" />
+		<option name="animation_duration" value="1400" type="int" />
+		<option name="close_on_click" value="false" type="bool" />
+		<option name="refresh_content" value="false" type="bool" />
+		<option name="open_callback" value="addKolorMap('panotourmaps', [['googlev3','']], 'panotourmapsArea_mapDIV');" type="string" />
+		<option name="close_callback" value="invokeKrFunction('closeKolorAreaCallback_panotourmapsArea')" type="string" />
+		<option name="zorder" value="8" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	</ptplugin>
+	
+	<action name="kolorAreaJsReady_panotourmapsArea">
+		set(ptplugin[panotourmapsArea].jsready, true);
+
+	</action>
+	
+	<action name="openKolorArea_panotourmapsArea">
+		ifnot(ptplugin[panotourmapsArea].isOpen,
+			if(ptplugin[panotourmapsArea].doNotDeleteMe,
+				set(ptplugin[panotourmapsArea].currentCall, false);
+				set(ptplugin[panotourmapsArea].doNotDeleteMe, false);
+			set(ptplugin[panotourmapsArea].isOpen, true);
+			
+			js(showKolorArea(panotourmapsArea, &lt;div id="panotourmapsArea_mapDIV"&gt;&lt;/div&gt;));
+			js(invokePluginFunction(panotourmaps, forceResizeMapLayer, panotourmapsArea_mapDIV));
+			,
+				set(ptplugin[panotourmapsArea].currentCall, true);
+				set(ptplugin[panotourmapsArea].doNotDeleteMe, true);
+				events.dispatch(onremovedisplayedobject);
+				delayedcall(0.3,openKolorArea_panotourmapsArea(););
+			);
+		);
+	</action>
+	
+	<action name="closeKolorArea_panotourmapsArea">
+		if(ptplugin[panotourmapsArea].isOpen,
+			if(ptplugin[panotourmapsArea].doNotDeleteMe,
+				set(ptplugin[panotourmapsArea].doNotDeleteMe, false);
+			,
+			js(invokePluginFunction(panotourmapsArea, closeKolorArea));
+			);
+		);
+	</action>
+	
+	<action name="toggleKolorArea_panotourmapsArea">
+		if(ptplugin[panotourmapsArea].isOpen,
+			closeKolorArea_panotourmapsArea();
+		,
+			openKolorArea_panotourmapsArea();
+		);
+	</action>
+	
+	<action name="closeKolorAreaCallback_panotourmapsArea">
+		set(ptplugin[panotourmapsArea].doNotDeleteMe, false);
+		set(ptplugin[panotourmapsArea].isOpen, false);hideMap();
+
+	</action>
+	
+	<action name="showKolorArea_panotourmapsArea">
+		if(ptplugin[panotourmapsArea].doNotDeleteMe,
+			set(ptplugin[panotourmapsArea].currentCall, false);
+			set(ptplugin[panotourmapsArea].doNotDeleteMe, false);
+		set(ptplugin[panotourmapsArea].isOpen, true);
+		
+		js(invokePluginFunction(panotourmapsArea, showKolorArea, %1));
+		js(invokePluginFunction(panotourmaps, forceResizeMapLayer, panotourmapsArea_mapDIV));
+		,
+			set(ptplugin[panotourmapsArea].currentCall, true);
+			set(ptplugin[panotourmapsArea].doNotDeleteMe, true);
+			events.dispatch(onremovedisplayedobject);
+			delayedcall(0.3,showKolorArea_panotourmapsArea(%1););
+		);
+	</action> 
+		
+	<action name="hideKolorArea_panotourmapsArea">
+		if(ptplugin[panotourmapsArea].doNotDeleteMe,
+			set(ptplugin[panotourmapsArea].doNotDeleteMe, false);
+		,
+		
+		set(ptplugin[panotourmapsArea].isOpen, false);
+		js(invokePluginFunction(panotourmapsArea, hideKolorArea, %1));
+		);
+	</action>
+	
+	
+	<action name="updateDefaultMarkerValues_panotourmapsArea">
+		if( ptplugin[panotourmaps].markerSelected.name != "",
+			set(ptplugin[panotourmaps].markerSelected.heading, get(view.hlookat));
+			set(ptplugin[panotourmaps].markerSelected.fov, get(view.hfov));
+		);
+		
+	</action>
+	
+	<action name="changeLanguage_panotourmaps">
+		if(ptplugin[panotourmaps].jsready,
+			stopdelayedcall(delay_panotourmaps);
+			js(invokePluginFunction(panotourmapsArea, changeLanguage, false));
+		,
+			delayedcall(delay_panotourmaps, 0.1, changeLanguage_panotourmaps(););
+		);
+	</action>
+	
+	<events name="kolorAreaEvents_panotourmapsArea" 
+		keep="true"
+		hidetourcontrols="if(ptplugin[panotourmapsArea].isOpen,set(restore_panotourmapsArea, true);hideKolorArea_panotourmapsArea(false);,set(restore_panotourmapsArea, false););"
+		showtourcontrols="if(tour_displaymap,if(restore_panotourmapsArea,showKolorArea_panotourmapsArea(false);););"
+		onremovepano="if(ptplugin[panotourmapsArea].isOpen,hideMap();
+);"
+		onremovedisplayedobject="ifnot(ptplugin[panotourmapsArea].currentCall,if(ptplugin[panotourmapsArea].isOpen,hideMap();
+););"
+		onhidetourmap="delayedcall(0.3,panotourmapsClosetourmap(););" 
+		onshowtourmap="if(tour_displaymap,panotourmapsOpentourmap(););" 
+		
+		onTourStart="updateDefaultMarkerValues_panotourmapsArea();"
+		changetourlanguage="changeLanguage_panotourmaps();"
+	/>
+	
+	
+		<!-- PanotourMaps markers counter : 1 -->
+				<action name="spotmap204ActionSpotMap">if(xml.scene == pano28,if(ptplugin[panotourmapsArea].isOpen,hideMap();
+););
+          mainloadscene(pano28);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+	
+
+
+	
+	
+	
+	<!-- Begin PanotourMaps events and actions -->
+	<events name="panotourmapsEvents" 
+	onxmlcomplete="ifnot(panotourmapsMapLoaded,set(tour_displaymap,false););" 
+	onnewpano="panotourmapsActivateDefaultMarker();" 
+	onviewchanged="panotourmapsOnviewchange()" 
+	keep="true" />
+	
+	
+	<krpano panotourmapsMarkerDefaultSet="false" />
+	<krpano panotourmapsMapLoaded="false" />
+	
+	
+	
+	<action name="panotourmapsClosetourmap">
+		if(ptplugin[panotourmapsArea].isOpen,
+			closeKolorArea_panotourmapsArea();
+		);
+	</action>
+	
+	<action name="panotourmapsHidetourmap">
+		ifnot(ptplugin[panotourmapsArea].isOpen,
+			panotourmapsClosetourmap();
+		,
+			hideKolorArea_panotourmapsArea(false);
+		);
+	</action>
+	
+	<action name="panotourmapsOpentourmap">
+		ifnot(ptplugin[panotourmapsArea].isOpen,
+			openKolorArea_panotourmapsArea();
+		);
+	</action>
+	
+	<action name="panotourmapsShowtourmap">
+		ifnot(ptplugin[panotourmapsArea].isOpen,
+			panotourmapsOpentourmap();
+		,
+			showKolorArea_panotourmapsArea(false);
+		);
+	</action>
+	
+	<action name="panotourmapsChangescene">
+		mainloadscene(%1);if(xml.scene != %1,panotourmapsGoMarker(%2););
+	</action>
+	
+	<action name="panotourmapsOnviewchange">
+		if ( panotourmapsMapLoaded == true,
+			ifnot(ptplugin[panotourmaps].markerSelected.name == "",
+				js(invokePluginFunction(panotourmaps, changeDirection, get(view.hlookat), get(view.hfov)));
+			);
+			updateDefaultMarkerValues_panotourmapsArea();
+		);
+	</action>
+	
+	<action name="panotourmapsGoMarker">
+		if ( panotourmapsMapLoaded == true,
+			
+			set(ptplugin[panotourmaps].markerSelected.name, %1);
+			set(ptplugin[panotourmaps].markerSelected.heading, get(view.hlookat));
+			set(ptplugin[panotourmaps].markerSelected.fov, get(view.hfov));
+			js(invokePluginFunction(panotourmaps, changeCurrentMarker, %1, get(view.hlookat), get(view.hfov), get(ptplugin[panotourmaps].centeronspots)));
+			
+			if( panotourmapsMarkerDefaultSet == false,
+				js(setMapDefaultMarker(panotourmaps, %1, get(view.hlookat), get(view.hfov)));
+				set(panotourmapsMarkerDefaultSet,true);
+			);
+		);
+	</action>
+	
+	<action name="panotourmapsUnselectMarker">
+		set(ptplugin[panotourmaps].markerSelected.name, "");
+		js(invokePluginFunction(panotourmaps, unselectCurrentMarker));
+		
+		js(setMapDefaultMarker(panotourmaps, null, null, null));
+	</action>
+
+	<action name="panotourmapsActivateDefaultMarker">
+		set(panotourmapsMapLoaded, true);
+		
+		set(panotourmapsMapSpotFound, false);
+		for(set(defaultmarkerinc,0), defaultmarkerinc LT ptplugin[panotourmaps].marker.count , inc(defaultmarkerinc),
+                        if(ptplugin[panotourmaps].marker[get(defaultmarkerinc)].isscene == true,
+				if(panotourmapsMapSpotFound == false,
+					if(ptplugin[panotourmaps].marker[get(defaultmarkerinc)].scene == xml.scene,
+						ifnot(ptplugin[panotourmaps].marker[get(defaultmarkerinc)].name == ptplugin[panotourmaps].markerSelected.name,
+							panotourmapsGoMarker(get(ptplugin[panotourmaps].marker[get(defaultmarkerinc)].name));
+						);
+						set(panotourmapsMapSpotFound, true);
+					);
+				);
+			);
+		);
+		
+		if(panotourmapsMapSpotFound == false,
+			panotourmapsUnselectMarker();
+		);
+	</action>
+
+
+
+<!-- ********** -->
+<!-- Floor plan -->
+<!-- id : floorPlan -->
+<!-- ********** -->
+
+	<ptplugin name="floorPlan" engine="KolorFloorPlan">
+		<settings>
+			<option name="background_color" value="ffffff" type="string" />
+			<option name="background_lighter_color" value="ffffff" type="string" />
+			<option name="background_darker_color" value="d5d5d5" type="string" />
+			<option name="background_alpha" value="0.90000762951094837" type="float" />
+			<option name="text_color" value="000000" type="string" />
+			<option name="resize" value="true" type="bool" />
+			<option name="fp_selector" value="one" type="string" />
+			<option name="fp_selector_label" value="floorPlanmenu_label" type="string" />
+			<option name="display_title" value="true" type="bool" />
+			<option name="title" value="panogroup44_floor_title" type="string" />
+			<option name="title_font" value="Trebuchet MS" type="string" />
+			<option name="title_size" value="14" type="int" />
+			<option name="title_weight" value="bold" type="string" />
+			<option name="title_decoration" value="normal" type="string" />
+			<option name="title_color" value="363636" type="string" />
+			<option name="display_orientation" value="false" type="bool" />
+			<option name="display_radar" value="true" type="bool" />
+			<option name="radar_radius" value="40" type="int" />
+			<option name="radar_line_width" value="2" type="int" />
+			<option name="radar_line_color" value="ffffff" type="string" />
+			<option name="radar_line_alpha" value="0.7000076295109483" type="float" />
+			<option name="radar_fill_color" value="ffffff" type="string" />
+			<option name="radar_fill_alpha" value="0.30000762951094834" type="float" />
+			<option name="selected_effect" value="bounce" type="string" />
+			<option name="close_on_click" value="true" type="bool" />
+			<option name="position" value="center" type="string" />
+			<option name="zorder" value="9" type="int" />
+			<option name="use_i18n" value="true" type="bool" />
+		</settings>
+		
+		<floorplanItems selectedItem="" selectedSpot="" selectedSpotScene="" selectedSpotHeading="" selectedSpotFov="">
+			
+			
+							<floorplanItem 
+								name="fpitempanogroup44" 
+								width="1875" 
+								height="1045" 
+								groupName="panogroup44" 
+								url="floorplan/_01_mansion_panogroup44_panogroup44_panogroup44.jpg" 
+								title="panogroup44_floor_title"
+								heading="0">
+										<spot name="spotmap7932" posX="0.740175009" posY="0.373279005" heading="0" desc="spotmap7932_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano27" jsClick="spotmap7932ActionSpotFloorPlan">
+											<icon url="spots/1_user_defaultmap3.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7933" posX="0.525327981" posY="0.616162002" heading="-106.2000000000001" desc="spotmap7933_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano19" jsClick="spotmap7933ActionSpotFloorPlan">
+											<icon url="spots/18_user_defaultmap20.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7934" posX="0.766469002" posY="0.265680999" heading="-80.000000000000014" desc="spotmap7934_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano28" jsClick="spotmap7934ActionSpotFloorPlan">
+											<icon url="spots/2_user_defaultmap4.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7935" posX="0.131675005" posY="0.785713971" heading="-90.199999999999932" desc="spotmap7935_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano31" jsClick="spotmap7935ActionSpotFloorPlan">
+											<icon url="spots/3_user_defaultmap5.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7936" posX="0.238273993" posY="0.824916005" heading="107.39999999999991" desc="spotmap7936_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano30" jsClick="spotmap7936ActionSpotFloorPlan">
+											<icon url="spots/4_user_defaultmap6.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7937" posX="0.298310995" posY="0.690235972" heading="53.200000000000273" desc="spotmap7937_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano24" jsClick="spotmap7937ActionSpotFloorPlan">
+											<icon url="spots/6_user_defaultmap8.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7938" posX="0.378987014" posY="0.791245997" heading="0" desc="spotmap7938_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano22" jsClick="spotmap7938ActionSpotFloorPlan">
+											<icon url="spots/8_user_defaultmap10.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7939" posX="0.372844994" posY="0.620890021" heading="-87.000000000000043" desc="spotmap7939_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano50" jsClick="spotmap7939ActionSpotFloorPlan">
+											<icon url="spots/7_user_defaultmap1.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7940" posX="0.452158004" posY="0.690235972" heading="77.800000000000068" desc="spotmap7940_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano33" jsClick="spotmap7940ActionSpotFloorPlan">
+											<icon url="spots/9_user_defaultmap11.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7941" posX="0.227371007" posY="0.514506996" heading="-108.40000000000001" desc="spotmap7941_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano29" jsClick="spotmap7941ActionSpotFloorPlan">
+											<icon url="spots/11_user_defaultmap13.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7942" posX="0.196121007" posY="0.406190008" heading="68.399999999999977" desc="spotmap7942_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano26" jsClick="spotmap7942ActionSpotFloorPlan">
+											<icon url="spots/12_user_defaultmap14.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7943" posX="0.286637992" posY="0.462282002" heading="-178.60000000000019" desc="spotmap7943_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano52" jsClick="spotmap7943ActionSpotFloorPlan">
+											<icon url="spots/10_user_defaultmap12.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7944" posX="0.348967999" posY="0.390572011" heading="0" desc="spotmap7944_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano20" jsClick="spotmap7944ActionSpotFloorPlan">
+											<icon url="spots/14_user_defaultmap16.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7945" posX="0.378232986" posY="0.518374979" heading="0" desc="spotmap7945_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano29586" jsClick="spotmap7945ActionSpotFloorPlan">
+											<icon url="spots/13_user_defaultmap15.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7946" posX="0.437148005" posY="0.437709987" heading="93.599999999999966" desc="spotmap7946_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano32" jsClick="spotmap7946ActionSpotFloorPlan">
+											<icon url="spots/15_user_defaultmap17.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7947" posX="0.362100989" posY="0.195286006" heading="-98.799999999999841" desc="spotmap7947_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano18" jsClick="spotmap7947ActionSpotFloorPlan">
+											<icon url="spots/16_user_defaultmap18.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7948" posX="0.261853009" posY="0.137330994" heading="0" desc="spotmap7948_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano21" jsClick="spotmap7948ActionSpotFloorPlan">
+											<icon url="spots/17_user_defaultmap19.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7949" posX="0.234522" posY="0.676768005" heading="0" desc="spotmap7949_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano23" jsClick="spotmap7949ActionSpotFloorPlan">
+											<icon url="spots/5_user_defaultmap7.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+							</floorplanItem>
+							<floorplanItem 
+								name="fpitempanogroup7007" 
+								width="987" 
+								height="502" 
+								groupName="panogroup7007" 
+								url="floorplan/_2_estate_outbuildings_panogroup7007_panogroup7007_panogroup7007_panogroup7007_panogroup7007.jpg" 
+								title="panogroup7007_floor_title"
+								heading="0">
+										<spot name="spotmap7818" posX="0.327520996" posY="0.104947999" heading="-95.800000000000026" desc="spotmap7818_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano7006" jsClick="spotmap7818ActionSpotFloorPlan">
+											<icon url="spots/19_user_defaultmap21.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7819" posX="0.322214007" posY="0.172414005" heading="129.00000000000031" desc="spotmap7819_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano20544" jsClick="spotmap7819ActionSpotFloorPlan">
+											<icon url="spots/22_user_defaultmap24.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7820" posX="0.366944999" posY="0.176911995" heading="54.400000000000013" desc="spotmap7820_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano7028" jsClick="spotmap7820ActionSpotFloorPlan">
+											<icon url="spots/21_user_defaultmap23.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7821" posX="0.441242993" posY="0.205396995" heading="-53.599999999999817" desc="spotmap7821_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano7026" jsClick="spotmap7821ActionSpotFloorPlan">
+											<icon url="spots/33_user_defaultmap35.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7822" posX="0.0773312971" posY="0.116942003" heading="0" desc="spotmap7822_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano7008" jsClick="spotmap7822ActionSpotFloorPlan">
+											<icon url="spots/26_user_defaultmap28.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7823" posX="0.151629999" posY="0.149924994" heading="-28.99999999999935" desc="spotmap7823_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano20540" jsClick="spotmap7823ActionSpotFloorPlan">
+											<icon url="spots/25_user_defaultmap27.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7824" posX="0.120545998" posY="0.179910004" heading="60.799999999999613" desc="spotmap7824_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano20542" jsClick="spotmap7824ActionSpotFloorPlan">
+											<icon url="spots/27_user_defaultmap29.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7825" posX="0.0614101999" posY="0.217390999" heading="-169.1999999999999" desc="spotmap7825_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano7036" jsClick="spotmap7825ActionSpotFloorPlan">
+											<icon url="spots/28_user_defaultmap30.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7826" posX="0.0470052995" posY="0.350825012" heading="-38.59999999999954" desc="spotmap7826_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano7038" jsClick="spotmap7826ActionSpotFloorPlan">
+											<icon url="spots/29_user_defaultmap31.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7827" posX="0.905988991" posY="0.968515992" heading="-43.000000000000227" desc="spotmap7827_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano7040" jsClick="spotmap7827ActionSpotFloorPlan">
+											<icon url="spots/32_user_defaultmap34.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7828" posX="0.833207011" posY="0.884558022" heading="-67.600000000000037" desc="spotmap7828_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano7042" jsClick="spotmap7828ActionSpotFloorPlan">
+											<icon url="spots/31_user_defaultmap33.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap29601" posX="0.858226001" posY="0.923538029" heading="0" desc="spotmap29601_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano29592" jsClick="spotmap29601ActionSpotFloorPlan">
+											<icon url="spots/30_user_defaultmap32.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap29628" posX="0.172858" posY="0.193403006" heading="0" desc="spotmap29628_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano29590" jsClick="spotmap29628ActionSpotFloorPlan">
+											<icon url="spots/24_user_defaultmap26.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap29629" posX="0.213798001" posY="0.175411999" heading="0" desc="spotmap29629_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano29587" jsClick="spotmap29629ActionSpotFloorPlan">
+											<icon url="spots/23_user_defaultmap25.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap29630" posX="0.206217006" posY="0.101948999" heading="0" desc="spotmap29630_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano29591" jsClick="spotmap29630ActionSpotFloorPlan">
+											<icon url="spots/20_user_defaultmap22.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+							</floorplanItem>
+							<floorplanItem 
+								name="fpitempanogroup57" 
+								width="987" 
+								height="502" 
+								groupName="panogroup57" 
+								url="floorplan/_3_gardens_landscapes_panogroup57_panogroup57_panogroup57_panogroup57_panogroup57.jpg" 
+								title="panogroup57_floor_title"
+								heading="0">
+										<spot name="spotmap7950" posX="0.129747003" posY="0.305296004" heading="-84.800000000000139" desc="spotmap7950_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano7010" jsClick="spotmap7950ActionSpotFloorPlan">
+											<icon url="spots/35_user_defaultmap37.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7951" posX="0.417721987" posY="0.314642012" heading="90.799999999999784" desc="spotmap7951_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano7012" jsClick="spotmap7951ActionSpotFloorPlan">
+											<icon url="spots/38_user_defaultmap40.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7952" posX="0.272152007" posY="0.436136991" heading="-109" desc="spotmap7952_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano7014" jsClick="spotmap7952ActionSpotFloorPlan">
+											<icon url="spots/34_user_defaultmap36.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7953" posX="0.57278502" posY="0.302181005" heading="-40.599999999999909" desc="spotmap7953_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano86" jsClick="spotmap7953ActionSpotFloorPlan">
+											<icon url="spots/39_user_defaultmap41.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7954" posX="0.125" posY="0.155763" heading="92.599999999999795" desc="spotmap7954_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano88" jsClick="spotmap7954ActionSpotFloorPlan">
+											<icon url="spots/36_user_defaultmap38.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7955" posX="0.425633013" posY="0.174455002" heading="-87.79999999999994" desc="spotmap7955_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano90" jsClick="spotmap7955ActionSpotFloorPlan">
+											<icon url="spots/37_user_defaultmap39.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7956" posX="0.522514999" posY="0.590831995" heading="123.9999999999995" desc="spotmap7956_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano92" jsClick="spotmap7956ActionSpotFloorPlan">
+											<icon url="spots/45_user_defaultmap47.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7957" posX="0.552067995" posY="0.161576003" heading="0" desc="spotmap7957_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano94" jsClick="spotmap7957ActionSpotFloorPlan">
+											<icon url="spots/40_user_defaultmap42.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7958" posX="0.699552" posY="0.437438011" heading="-114.7999999999999" desc="spotmap7958_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano96" jsClick="spotmap7958ActionSpotFloorPlan">
+											<icon url="spots/41_user_defaultmap43.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7959" posX="0.817137003" posY="0.424430996" heading="56.199999999999868" desc="spotmap7959_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano98" jsClick="spotmap7959ActionSpotFloorPlan">
+											<icon url="spots/42_user_defaultmap44.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7960" posX="0.911639988" posY="0.891340971" heading="6.4000000000001194" desc="spotmap7960_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano100" jsClick="spotmap7960ActionSpotFloorPlan">
+											<icon url="spots/44_user_defaultmap46.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7961" posX="0.848767996" posY="0.151104003" heading="0" desc="spotmap7961_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano102" jsClick="spotmap7961ActionSpotFloorPlan">
+											<icon url="spots/43_user_defaultmap45.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7962" posX="0.348343015" posY="0.960950971" heading="84.400000000000034" desc="spotmap7962_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano104" jsClick="spotmap7962ActionSpotFloorPlan">
+											<icon url="spots/46_user_defaultmap48.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap30658" posX="0.363635987" posY="0.241087005" heading="0" desc="spotmap30658_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano29588" jsClick="spotmap30658ActionSpotFloorPlan">
+											<icon url="spots/47_user_defaultmap49.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+							</floorplanItem>
+							<floorplanItem 
+								name="fpitempanogroup59" 
+								width="1112" 
+								height="620" 
+								groupName="panogroup59" 
+								url="floorplan/_4_distillery_gristmill_panogroup59_panogroup59_panogroup59_panogroup59.jpg" 
+								title="panogroup59_floor_title"
+								heading="0">
+										<spot name="spotmap7694" posX="0.486110985" posY="0.454829007" heading="-146" desc="spotmap7694_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano58" jsClick="spotmap7694ActionSpotFloorPlan">
+											<icon url="spots/48_user_defaultmap50.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7695" posX="0.177083001" posY="0.638629019" heading="-106.60000000000041" desc="spotmap7695_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano106" jsClick="spotmap7695ActionSpotFloorPlan">
+											<icon url="spots/49_user_defaultmap51.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7696" posX="0.171875" posY="0.498441994" heading="14.59999999999974" desc="spotmap7696_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano110" jsClick="spotmap7696ActionSpotFloorPlan">
+											<icon url="spots/51_user_defaultmap53.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7697" posX="0.262153" posY="0.439251989" heading="132.59999999999951" desc="spotmap7697_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano112" jsClick="spotmap7697ActionSpotFloorPlan">
+											<icon url="spots/52_user_defaultmap54.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7698" posX="0.265625" posY="0.557632029" heading="152.60000000000039" desc="spotmap7698_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano108" jsClick="spotmap7698ActionSpotFloorPlan">
+											<icon url="spots/50_user_defaultmap52.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap7699" posX="0.822916985" posY="0.504673004" heading="-177.59999999999999" desc="spotmap7699_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano114" jsClick="spotmap7699ActionSpotFloorPlan">
+											<icon url="spots/53_user_defaultmap55.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+							</floorplanItem>
+							<floorplanItem 
+								name="fpitempanogroup150" 
+								width="1112" 
+								height="620" 
+								groupName="panogroup150" 
+								url="floorplan/_5_library_panogroup150_panogroup150_panogroup150_panogroup150_panogroup150_panogroup150_panogroup150.jpg" 
+								title="panogroup150_floor_title"
+								heading="0">
+										<spot name="spotmap10668" posX="0.569444001" posY="0.398754001" heading="122.8000000000001" desc="spotmap10668_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano149" jsClick="spotmap10668ActionSpotFloorPlan">
+											<icon url="spots/54_user_defaultmap56.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap10669" posX="0.699258029" posY="0.541920006" heading="-85.200000000000045" desc="spotmap10669_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano161" jsClick="spotmap10669ActionSpotFloorPlan">
+											<icon url="spots/60_user_defaultmap9.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap10670" posX="0.248264" posY="0.716511011" heading="179.60000000000011" desc="spotmap10670_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano151" jsClick="spotmap10670ActionSpotFloorPlan">
+											<icon url="spots/55_user_defaultmap57.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap10671" posX="0.199653" posY="0.822430015" heading="-94.200000000000102" desc="spotmap10671_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano153" jsClick="spotmap10671ActionSpotFloorPlan">
+											<icon url="spots/56_user_defaultmap58.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap10672" posX="0.125" posY="0.831776023" heading="-90.20000000000006" desc="spotmap10672_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano155" jsClick="spotmap10672ActionSpotFloorPlan">
+											<icon url="spots/57_user_defaultmap59.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap10673" posX="0.09375" posY="0.856697977" heading="-177.39999999999989" desc="spotmap10673_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano157" jsClick="spotmap10673ActionSpotFloorPlan">
+											<icon url="spots/58_user_defaultmap60.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+										<spot name="spotmap10674" posX="0.0746527985" posY="0.249220997" heading="-38.599999999999909" desc="spotmap10674_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano159" jsClick="spotmap10674ActionSpotFloorPlan">
+											<icon url="spots/59_user_defaultmap61.png" iconWidth="22" iconHeight="22" iconAnchor="center" />
+										</spot>
+							</floorplanItem>
+		</floorplanItems>
+	</ptplugin>
+	
+	<action name="kolorFloorplanJsReady_floorPlan">
+		set(ptplugin[floorPlan].jsready, true);
+		
+		ifnot(ptplugin[floorPlan].floorplanItems.selectedSpot == "",
+			set(ptplugin[floorPlan].floorplanItems.selectedSpotFov, get(view.hfov));
+			js(invokePluginFunction(floorPlan, setKolorFloorPlanSelectedSpotOptions, get(xml.scene), get(view.hlookat), get(view.hfov)));
+		);
+	</action>
+	
+	
+	
+					<!-- floorplan panogroup44 spots counter : 18 -->
+						<action name="spotmap7932ActionSpotFloorPlan">if(xml.scene == pano27,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano27);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7933ActionSpotFloorPlan">if(xml.scene == pano19,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano19);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7934ActionSpotFloorPlan">if(xml.scene == pano28,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano28);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7935ActionSpotFloorPlan">if(xml.scene == pano31,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano31);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7936ActionSpotFloorPlan">if(xml.scene == pano30,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano30);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7937ActionSpotFloorPlan">if(xml.scene == pano24,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano24);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7938ActionSpotFloorPlan">if(xml.scene == pano22,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano22);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7939ActionSpotFloorPlan">if(xml.scene == pano50,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano50);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7940ActionSpotFloorPlan">if(xml.scene == pano33,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano33);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7941ActionSpotFloorPlan">if(xml.scene == pano29,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano29);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7942ActionSpotFloorPlan">if(xml.scene == pano26,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano26);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7943ActionSpotFloorPlan">if(xml.scene == pano52,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano52);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7944ActionSpotFloorPlan">if(xml.scene == pano20,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano20);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7945ActionSpotFloorPlan">if(xml.scene == pano29586,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano29586);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7946ActionSpotFloorPlan">if(xml.scene == pano32,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano32);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7947ActionSpotFloorPlan">if(xml.scene == pano18,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano18);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7948ActionSpotFloorPlan">if(xml.scene == pano21,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano21);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7949ActionSpotFloorPlan">if(xml.scene == pano23,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano23);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+					<!-- floorplan panogroup7007 spots counter : 15 -->
+						<action name="spotmap7818ActionSpotFloorPlan">if(xml.scene == pano7006,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano7006);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7819ActionSpotFloorPlan">if(xml.scene == pano20544,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano20544);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7820ActionSpotFloorPlan">if(xml.scene == pano7028,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano7028);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7821ActionSpotFloorPlan">if(xml.scene == pano7026,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano7026);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7822ActionSpotFloorPlan">if(xml.scene == pano7008,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano7008);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7823ActionSpotFloorPlan">if(xml.scene == pano20540,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano20540);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7824ActionSpotFloorPlan">if(xml.scene == pano20542,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano20542);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7825ActionSpotFloorPlan">if(xml.scene == pano7036,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano7036);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7826ActionSpotFloorPlan">if(xml.scene == pano7038,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano7038);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7827ActionSpotFloorPlan">if(xml.scene == pano7040,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano7040);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7828ActionSpotFloorPlan">if(xml.scene == pano7042,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano7042);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap29601ActionSpotFloorPlan">if(xml.scene == pano29592,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano29592);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap29628ActionSpotFloorPlan">if(xml.scene == pano29590,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano29590);lookat(0.000000, 0.000000, 68.181800);
+
+</action>
+						<action name="spotmap29629ActionSpotFloorPlan">if(xml.scene == pano29587,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano29587);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap29630ActionSpotFloorPlan">if(xml.scene == pano29591,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano29591);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+					<!-- floorplan panogroup57 spots counter : 14 -->
+						<action name="spotmap7950ActionSpotFloorPlan">if(xml.scene == pano7010,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano7010);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7951ActionSpotFloorPlan">if(xml.scene == pano7012,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano7012);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7952ActionSpotFloorPlan">if(xml.scene == pano7014,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano7014);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7953ActionSpotFloorPlan">if(xml.scene == pano86,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano86);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7954ActionSpotFloorPlan">if(xml.scene == pano88,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano88);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7955ActionSpotFloorPlan">if(xml.scene == pano90,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano90);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7956ActionSpotFloorPlan">if(xml.scene == pano92,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano92);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7957ActionSpotFloorPlan">if(xml.scene == pano94,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano94);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7958ActionSpotFloorPlan">if(xml.scene == pano96,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano96);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7959ActionSpotFloorPlan">if(xml.scene == pano98,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano98);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7960ActionSpotFloorPlan">if(xml.scene == pano100,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano100);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7961ActionSpotFloorPlan">if(xml.scene == pano102,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano102);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7962ActionSpotFloorPlan">if(xml.scene == pano104,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano104);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap30658ActionSpotFloorPlan">if(xml.scene == pano29588,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano29588);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+					<!-- floorplan panogroup59 spots counter : 6 -->
+						<action name="spotmap7694ActionSpotFloorPlan">if(xml.scene == pano58,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano58);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7695ActionSpotFloorPlan">if(xml.scene == pano106,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano106);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7696ActionSpotFloorPlan">if(xml.scene == pano110,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano110);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7697ActionSpotFloorPlan">if(xml.scene == pano112,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano112);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7698ActionSpotFloorPlan">if(xml.scene == pano108,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano108);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap7699ActionSpotFloorPlan">if(xml.scene == pano114,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano114);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+					<!-- floorplan panogroup150 spots counter : 7 -->
+						<action name="spotmap10668ActionSpotFloorPlan">if(xml.scene == pano149,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano149);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap10669ActionSpotFloorPlan">if(xml.scene == pano161,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano161);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap10670ActionSpotFloorPlan">if(xml.scene == pano151,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano151);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap10671ActionSpotFloorPlan">if(xml.scene == pano153,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano153);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap10672ActionSpotFloorPlan">if(xml.scene == pano155,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano155);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap10673ActionSpotFloorPlan">if(xml.scene == pano157,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano157);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+						<action name="spotmap10674ActionSpotFloorPlan">if(xml.scene == pano159,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+floorPlanActivateDefaultSpot();););
+          mainloadscene(pano159);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+</action>
+	
+	
+	<events name="floorPlanEvents" 
+	onxmlcomplete="ifnot(floorPlanFloorPlanLoaded,set(tour_displayfloorplan,false););floorPlanActivateDefaultSpot();" 
+	onviewchanged="floorPlanOnViewChange();" 
+	onhidetourfloorplan="delayedcall(0.3,floorPlanCloseTourFloorPlan(););" 
+	onshowtourfloorplan="if(tour_displayfloorplan,floorPlanOpenTourFloorPlan(););" 
+	onTourStart=""
+	changetourlanguage="floorPlanChangeLanguage();"
+	keep="true" />
+	
+	<action name="floorPlanChangeLanguage">
+		if(ptplugin[floorPlan].jsready,
+			stopdelayedcall(delay_floorPlan);
+			js(invokePluginFunction(floorPlanArea, changeLanguage, false));
+			js(invokePluginFunction(floorPlan, changeLanguage));
+		,
+			delayedcall(delay_floorPlan, 0.1, floorPlanChangeLanguage(););
+		);
+	</action>
+	
+	
+	<krpano floorPlanFloorPlanLoaded="false" />
+	
+	<action name="floorPlanHideTourFloorPlan">
+		hideKolorArea_floorPlanArea(true);
+	</action>
+	
+	<action name="floorPlanCloseTourFloorPlan">
+		closeKolorArea_floorPlanArea();
+	</action>
+	
+	<action name="floorPlanShowTourFloorPlan">
+		if(ptplugin[floorPlanArea].isOpen === null,
+			openKolorArea_floorPlanArea();
+		,
+			showKolorArea_floorPlanArea(true);
+		);
+	</action>
+	
+	<action name="floorPlanOpenTourFloorPlan">
+		openKolorArea_floorPlanArea();
+	</action>
+	
+	<action name="floorPlanOnViewChange">
+		if (floorPlanFloorPlanLoaded == true,
+			ifnot(ptplugin[floorPlan].floorplanItems.selectedSpot == "",
+				ifnot(scene[get(xml.scene)].planar,
+					js(invokePluginFunction(floorPlan, changeDirection, get(xml.scene), get(view.hlookat), get(view.hfov)));
+				);
+			);
+		);
+	</action>
+	
+	<action name="floorPlanActivateSpot">
+		
+		set(ptplugin[floorPlan].floorplanItems.selectedSpot, %1);
+		set(ptplugin[floorPlan].floorplanItems.selectedItem, %2);
+		
+		if(%1 !== "",
+			set(ptplugin[floorPlan].floorplanItems.selectedSpotScene, get(xml.scene));
+			set(ptplugin[floorPlan].floorplanItems.selectedSpotHeading, get(view.hlookat));
+			set(ptplugin[floorPlan].floorplanItems.selectedSpotFov, get(view.hfov));
+		);
+		
+		
+		if(ptplugin[floorPlanArea].isOpen,
+			floorPlanSelectActivatedSpot(%1, %2, %3);
+		);
+	</action>
+	
+	<action name="floorPlanSelectActivatedSpot">
+		js(invokePluginFunction(floorPlan, selectSpot, %1, %2, %3));
+
+		if(%1 !== "",
+			if(scene[get(xml.scene)].planar,
+				js(invokePluginFunction(floorPlan, hideRadar));
+			,
+				js(invokePluginFunction(floorPlan, changeDirection, get(xml.scene), get(view.hlookat), get(view.hfov)));
+			);
+		);
+	</action>
+	
+	<action name="floorPlanDeactivateSpot">
+		set(ptplugin[floorPlan].floorplanItems.selectedSpot, "");
+		
+		js(invokePluginFunction(floorPlan, unselectSpot));
+	</action>
+	
+	<action name="floorPlanActivateDefaultSpot">
+		set(floorPlanFloorPlanLoaded, true);
+		
+		set(floorPlanSpotFound, "");
+		set(floorPlanSpotScene, "");
+		set(floorPlanItemFound, "");
+		set(floorPlanItemSearch, true);
+		set(floorPlanSpotSearchActivated, true);
+		set(floorPlanSpotSearchContinue, true);
+		
+		
+		for(set(defaultfloorplaniteminc,0), defaultfloorplaniteminc LT ptplugin[floorPlan].floorplanItems.floorplanItem.count , inc(defaultfloorplaniteminc),
+                        if(floorPlanSpotSearchActivated == true,
+				
+				if(ptplugin[floorPlan].floorplanItems.floorplanItem[get(defaultfloorplaniteminc)].groupName == scene[get(xml.scene)].group,
+					set(floorPlanItemFound, get(ptplugin[floorPlan].floorplanItems.floorplanItem[get(defaultfloorplaniteminc)].name));
+					set(ptplugin[floorPlan].floorplanItems.selectedItem, get(ptplugin[floorPlan].floorplanItems.floorplanItem[get(defaultfloorplaniteminc)].name));
+					set(floorPlanItemSearch, false);
+				,
+					
+					if(floorPlanItemFound == "",
+						set(floorPlanItemFound, get(ptplugin[floorPlan].floorplanItems.floorplanItem[get(defaultfloorplaniteminc)].name));
+					);
+				);
+			);
+			if(floorPlanSpotSearchActivated == true,
+                                for(set(defaultspotinc,0), defaultspotinc LT ptplugin[floorPlan].floorplanItems.floorplanItem[get(defaultfloorplaniteminc)].spot.count , inc(defaultspotinc),
+                                        if(ptplugin[floorPlan].floorplanItems.floorplanItem[get(defaultfloorplaniteminc)].spot[get(defaultspotinc)].isScene == true,
+					
+						if(floorPlanSpotSearchContinue == true,
+							if(ptplugin[floorPlan].floorplanItems.floorplanItem[get(defaultfloorplaniteminc)].spot[get(defaultspotinc)].scene == xml.scene,
+								set(floorPlanSpotFound, get(ptplugin[floorPlan].floorplanItems.floorplanItem[get(defaultfloorplaniteminc)].spot[get(defaultspotinc)].name));
+								set(floorPlanSpotScene, get(ptplugin[floorPlan].floorplanItems.floorplanItem[get(defaultfloorplaniteminc)].spot[get(defaultspotinc)].scene));
+								set(ptplugin[floorPlan].floorplanItems.selectedItem, get(ptplugin[floorPlan].floorplanItems.floorplanItem[get(defaultfloorplaniteminc)].name));
+								if(floorPlanItemSearch == false,
+									set(floorPlanSpotSearchContinue, false);
+									set(floorPlanSpotSearchActivated, false);
+								);
+							);
+						);
+					);
+					
+				);
+			);
+		);
+		
+		if(floorPlanSpotFound == "",
+			
+			
+			floorPlanDeactivateSpot();
+			
+			
+			set(ptplugin[floorPlan].floorplanItems.selectedItem, get(floorPlanItemFound));
+			
+			
+			ifnot(ptplugin[floorPlan].floorplanItems.selectedItem == "",
+				floorPlanActivateSpot("", get(ptplugin[floorPlan].floorplanItems.selectedItem), "");
+			);
+		,
+			
+			floorPlanActivateSpot(get(floorPlanSpotFound), get(ptplugin[floorPlan].floorplanItems.selectedItem), get(floorPlanSpotScene));
+		);
+	</action>
+	
+	<action name="floorPlanChangeTitle">
+		js(invokePluginFunction(floorPlan, changeTitle, %1));
+	</action>
+	
+	<ptplugin name="floorPlanArea" engine="kolorArea">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="start_position" value="bottom" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="display_title" value="true" type="bool" />
+		<option name="title" value="panogroup44_floor_title" type="string" />
+		<option name="title_font" value="Trebuchet MS" type="string" />
+		<option name="title_size" value="14" type="int" />
+		<option name="title_weight" value="bold" type="string" />
+		<option name="title_decoration" value="normal" type="string" />
+		<option name="title_color" value="363636" type="string" />
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_text" value="floorPlandisplay_close_text" type="string" />
+
+		<option name="background_color" value="ffffff" type="string" />
+		<option name="background_alpha" value="0.90000762951094837" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="padding" value="10" type="int" />
+		<option name="topleft_radius" value="0" type="int" />
+		<option name="topright_radius" value="0" type="int" />
+		<option name="bottomleft_radius" value="0" type="int" />
+		<option name="bottomright_radius" value="0" type="int" />
+		<option name="area_border_width" value="6" type="int" />
+		<option name="area_border_color" value="ece9e0" type="string" />
+		<option name="area_border_alpha" value="1" type="float" />
+		<option name="area_width" value="96" type="int" />
+		<option name="area_height" value="80" type="int" />
+		<option name="area_width_unit" value="percent" type="string" />
+		<option name="area_height_unit" value="percent" type="string" />
+		<option name="animation" value="true" type="bool" />
+		<option name="animation_duration" value="1500" type="int" />
+		<option name="close_on_click" value="true" type="bool" />
+		<option name="refresh_content" value="false" type="bool" />
+		<option name="open_callback" value="addKolorFloorPlan('floorPlan', 'floorPlanArea_floorplanDIV');" type="string" />
+		<option name="close_callback" value="invokeKrFunction('closeKolorAreaCallback_floorPlanArea')" type="string" />
+		<option name="zorder" value="9" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	</ptplugin>
+	
+	<action name="kolorAreaJsReady_floorPlanArea">
+		set(ptplugin[floorPlanArea].jsready, true);
+
+	</action>
+	
+	<action name="openKolorArea_floorPlanArea">
+		ifnot(ptplugin[floorPlanArea].isOpen,
+			if(ptplugin[floorPlanArea].doNotDeleteMe,
+				set(ptplugin[floorPlanArea].currentCall, false);
+				set(ptplugin[floorPlanArea].doNotDeleteMe, false);
+			set(ptplugin[floorPlanArea].isOpen, true);
+			
+			js(showKolorArea(floorPlanArea, &lt;div id="floorPlanArea_floorplanDIV"&gt;&lt;/div&gt;));
+			
+			if(ptplugin[floorPlan].floorplanItems.selectedSpot != "",
+				floorPlanSelectActivatedSpot(get(ptplugin[floorPlan].floorplanItems.selectedSpot), get(ptplugin[floorPlan].floorplanItems.selectedItem), get(ptplugin[floorPlan].floorplanItems.selectedSpotScene));
+			);
+			,
+				set(ptplugin[floorPlanArea].currentCall, true);
+				set(ptplugin[floorPlanArea].doNotDeleteMe, true);
+				events.dispatch(onremovedisplayedobject);
+				delayedcall(0.3,openKolorArea_floorPlanArea(););
+			);
+		);
+	</action>
+	
+	<action name="closeKolorArea_floorPlanArea">
+		if(ptplugin[floorPlanArea].isOpen,
+			if(ptplugin[floorPlanArea].doNotDeleteMe,
+				set(ptplugin[floorPlanArea].doNotDeleteMe, false);
+			,
+			js(invokePluginFunction(floorPlanArea, closeKolorArea));
+			);
+		);
+	</action>
+	
+	<action name="toggleKolorArea_floorPlanArea">
+		if(ptplugin[floorPlanArea].isOpen,
+			closeKolorArea_floorPlanArea();
+		,
+			openKolorArea_floorPlanArea();
+		);
+	</action>
+	
+	<action name="closeKolorAreaCallback_floorPlanArea">
+		set(ptplugin[floorPlanArea].doNotDeleteMe, false);
+		set(ptplugin[floorPlanArea].isOpen, false);hideFloorplan();
+
+	</action>
+	
+	<action name="changeTitleKolorArea_floorPlanArea">
+		js(invokePluginFunction(floorPlanArea, changeTitle, %1));
+	</action>
+	
+	<action name="showKolorArea_floorPlanArea">
+		if(ptplugin[floorPlanArea].doNotDeleteMe,
+			set(ptplugin[floorPlanArea].currentCall, false);
+			set(ptplugin[floorPlanArea].doNotDeleteMe, false);
+		set(ptplugin[floorPlanArea].isOpen, true);
+		
+		js(invokePluginFunction(floorPlanArea, showKolorArea, %1));
+		,
+			set(ptplugin[floorPlanArea].currentCall, true);
+			set(ptplugin[floorPlanArea].doNotDeleteMe, true);
+			events.dispatch(onremovedisplayedobject);
+			delayedcall(0.3,showKolorArea_floorPlanArea(););
+		);
+	</action>
+		
+	<action name="hideKolorArea_floorPlanArea">
+		if(ptplugin[floorPlanArea].doNotDeleteMe,
+			set(ptplugin[floorPlanArea].doNotDeleteMe, false);
+		,
+		
+		set(ptplugin[floorPlanArea].isOpen, false);
+		js(invokePluginFunction(floorPlanArea, hideKolorArea, %1));
+		);
+	</action>
+	
+	<events name="kolorAreaEvents_floorPlanArea" 
+		keep="true"
+		hidetourcontrols="if(ptplugin[floorPlanArea].isOpen,set(restore_floorPlanArea, true);hideKolorArea_floorPlanArea(false);,set(restore_floorPlanArea, false););"
+		showtourcontrols="if(tour_displayfloorplan,if(restore_floorPlanArea,showKolorArea_floorPlanArea(false);););"
+		onremovepano="if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+);"
+		onremovedisplayedobject="ifnot(ptplugin[floorPlanArea].currentCall,if(ptplugin[floorPlanArea].isOpen,hideFloorplan();
+););"
+	/>
+	
+
+<!-- ********** -->
+<!-- Description -->
+<!-- id : description -->
+<!-- ********** -->
+
+<ptplugin name="description" canStart="false" newPano="false" openatstart="true" mode="panorama" startMethod="showDescription_description" engine="kolorArea">
+	<settings>
+		<option name="position" value="bottom" type="string" />
+		<option name="start_position" value="bottom" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="50" type="int" />
+		<option name="background_color" value="ffffff" type="string" />
+		<option name="background_alpha" value="0.90000762951094837" type="float" />
+		<option name="topleft_radius" value="0" type="int" />
+		<option name="topright_radius" value="0" type="int" />
+		<option name="bottomleft_radius" value="0" type="int" />
+		<option name="bottomright_radius" value="0" type="int" />
+		<option name="area_border_width" value="6" type="int" />
+		<option name="area_border_color" value="ffffff" type="string" />
+		<option name="area_border_alpha" value="1" type="float" />
+		<option name="padding" value="10" type="int" />
+		<option name="display_title" value="true" type="bool" />
+		<option name="title" value="" type="string" />
+		<option name="title_font" value="Trebuchet MS" type="string" />
+		<option name="title_size" value="12" type="int" />
+		<option name="title_weight" value="bold" type="string" />
+		<option name="title_decoration" value="normal" type="string" />
+		<option name="title_color" value="222222" type="string" />
+		<option name="close_displayed" value="false" type="bool" />
+		<option name="close_text" value="descriptiondisplay_close_text" type="string" />
+
+		<option name="close_image" value="indexdata/graphics/description/menu-off3.png" type="string" />
+
+		<option name="overlay_displayed" value="false" type="bool" />
+		<option name="overlay_color" value="333333" type="string" />
+		<option name="overlay_alpha" value="0.40000000000000002" type="float" />
+
+		<option name="area_width" value="96" type="int" />
+		<option name="area_height" value="162" type="int" />
+		<option name="area_width_unit" value="percent" type="string" />
+		<option name="area_height_unit" value="pixel" type="string" />
+		<option name="animation" value="true" type="bool" />
+		<option name="animation_duration" value="1500" type="int" />
+		<option name="refresh_content" value="true" type="bool" />
+		<option name="close_callback" value="invokeKrFunction('closeKolorAreaCallback_description')" type="string" />
+		<option name="close_on_click" value="true" type="bool" />
+		<option name="close_onclick_callback" value="invokeKrFunction('closeKolorAreaCallbackClick_description')" type="string" />
+		<option name="open_callback" value="invokeKrFunction('openKolorAreaCallback_description')" type="string" />
+		<option name="zorder" value="10" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+</ptplugin>
+
+<action name="kolorAreaJsReady_description">
+	set(ptplugin[description].jsready, true);
+
+</action>
+
+<action name="updateTitle_description">
+	js(invokePluginFunction(description, changeTitle, get(scene[get(xml.scene)].titleid)));
+</action>
+
+<action name="openKolorArea_description">
+	ifnot(ptplugin[description].isOpen,
+		set(ptplugin[description].isOpen, true);
+		
+		js(showKolorArea(description, get(ptplugin[description].descID)));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="closeKolorArea_description">
+	if(ptplugin[description].isOpen,
+		js(invokePluginFunction(description, closeKolorArea));
+	);
+</action>
+
+<action name="toggleKolorArea_description">
+	if(ptplugin[description].isOpen,
+		closeKolorArea_description();
+	,
+		openKolorArea_description();
+	);
+</action>
+
+<action name="closeKolorAreaCallback_description">
+	set(ptplugin[description].isOpen, false);
+	if(tour_displayinfo,hideTourInfo();
+
+	);
+</action>
+
+<action name="closeKolorAreaCallbackClick_description">
+
+
+	if(tour_displayinfo,hideTourInfo();
+
+	);
+</action>
+
+<action name="openKolorAreaCallback_description">
+	updateTitle_description();
+</action>
+
+<action name="showKolorArea_description">
+	ifnot(ptplugin[description].startMethod == "",
+		delayedcall(0,get(ptplugin[description].startMethod));
+	,
+		set(ptplugin[description].isOpen, true);
+		
+		js(invokePluginFunction(description, showKolorArea, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+	
+<action name="hideKolorArea_description">
+	
+	set(ptplugin[description].isOpen, false);
+	js(invokePluginFunction(description, hideKolorArea, %1));
+</action>
+
+<action name="openDescription_description">
+	openKolorArea_description();
+</action>
+
+<action name="openSpotDescription_description">
+	set(ptplugin[description].descID, %1);
+	openKolorArea_description();
+</action>
+
+<action name="closeDescription_description">
+	set(ptplugin[description].currentGroup, false);
+	if(%1,
+		set(restore_description, true);
+	,
+		set(restore_description, false);
+	);
+	closeKolorArea_description();
+</action> 
+
+<action name="showDescription_description">
+	if(ptplugin[description].canStart,
+		set(ptplugin[description].descID, get(scene[get(xml.scene)].descriptionid));
+		if(ptplugin[description].descID == null,
+			set(ptplugin[description].descID, "");
+		);
+		if(ptplugin[description].descID != "",
+			openDescription_description();
+		,
+			hideKolorArea_description(false);
+		);
+		set(ptplugin[description].startMethod, "");
+	);
+</action>
+
+
+<action name="refreshPanoDescription_description">
+	set(ptplugin[description].descID, get(scene[get(xml.scene)].descriptionid));
+	if(ptplugin[description].descID == null,
+		set(ptplugin[description].descID, "");
+	);
+	if(ptplugin[description].descID != "",
+		if(ptplugin[description].isOpen,
+			js(invokePluginFunction(description, updateKolorArea, get(ptplugin[description].descID)));
+			updateTitle_description();
+		,
+			if(restore_description,
+				showDescription_description();
+			);
+		);
+	,
+		if(tour_displayinfo,
+			delayedcall(0.1,showTourInfo();
+);
+		);
+		closeDescription_description(get(ptplugin[description].isOpen));
+	);
+</action>
+
+<action name="onNewPano_description">
+	if(ptplugin[description].newPano,
+		if(ptplugin[description].startMethod == "",
+			if(ptplugin[description].isOpen,
+				refreshPanoDescription_description();
+			,
+				if(tour_displayinfo,
+				showDescription_description();
+				,
+				refreshPanoDescription_description();
+				);
+			);
+		);
+	);
+	set(ptplugin[description].newPano, true);
+</action>
+
+<action name="changeLanguage_description">
+	if(ptplugin[description].jsready,
+		stopdelayedcall(delay_description);
+		js(invokePluginFunction(description, changeLanguage, true));
+	,
+		delayedcall(delay_description, 0.1, changeLanguage_description(););
+	);
+</action>
+
+<events name="kolorAreaEvents_description" 
+	keep="true"
+	onTourStart="set(ptplugin[description].canStart, true);if(ptplugin[description].openatstart,showTourInfo();
+);"
+	onshowtourinfo="if(tour_displayinfo,showDescription_description(););"
+	onhidetourinfo="if(ptplugin[description].isOpen,closeDescription_description(false););"
+	onnewpano="onNewPano_description();"
+	changetourlanguage="changeLanguage_description();"
+/>
+
+<!-- ********** -->
+<!-- Website Box -->
+<!-- id : websiteViewer -->
+<!-- ********** -->
+
+<ptplugin name="websiteViewer" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="container_auto_size" value="false" type="bool" />
+		<option name="container_width" value="98" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="98" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="0" type="int" />
+		<option name="container_topright_border_radius" value="0" type="int" />
+		<option name="container_bottomleft_border_radius" value="0" type="int" />
+		<option name="container_bottomright_border_radius" value="0" type="int" />
+		<option name="container_border_width" value="6" type="int" />
+		<option name="container_border_color" value="42b7be" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="title_position" value="top" type="string" />
+		<option name="title_font" value="Verdana" type="string" />
+		<option name="title_size" value="14" type="int" />
+		<option name="title_weight" value="normal" type="string" />
+		<option name="title_style" value="normal" type="string" />
+		<option name="title_decoration" value="none" type="string" />
+		<option name="title_color" value="000000" type="string" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="iframe_scrolling" value="no" type="string" />
+		<option name="iframe_default_width" value="316" type="int" />
+		<option name="iframe_default_height" value="460" type="int" />
+		<option name="iframe_devices_width" value="316" type="int" />
+		<option name="iframe_devices_height" value="460" type="int" />
+		<option name="force_ios_scrolling" value="true" type="bool" />
+		<option name="fullscreen_displayed" value="false" type="bool" />
+		<option name="fullscreen_position" value="topright" type="string" />
+		<option name="fullscreen_text" value="websiteViewerfullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="websiteViewerclose_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_websiteViewer')" type="string" />
+		<option name="zorder" value="11" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_websiteViewer">
+	set(ptplugin[websiteViewer].jsready, true);
+</action>
+
+<action name="openWebsite_websiteViewer">
+	ifnot(ptplugin[websiteViewer].isOpen,
+		if(ptplugin[websiteViewer].doNotDeleteMe,
+			set(ptplugin[websiteViewer].currentCall, false);
+		set(ptplugin[websiteViewer].isOpen, true);
+		set(ptplugin[websiteViewer].doNotDeleteMe, false);
+		getmessage(websiteViewer_boxurl, %1);
+		txtadd(websiteViewer_boxurl, ?iframe=true);
+		
+		js(invokePluginFunction(websiteViewer, loadSingleArrayItem, get(websiteViewer_boxurl), %2));
+		,
+			set(ptplugin[websiteViewer].currentCall, true);
+			set(ptplugin[websiteViewer].doNotDeleteMe, true);
+			events.dispatch(onremovedisplayedobject);
+			delayedcall(0.3,openWebsite_websiteViewer(%1,%2););
+		);
+	,
+		if('%1' != websiteViewer_boxurl,
+			closeKolorBox_websiteViewer();
+			delayedcall(0.3,openWebsite_websiteViewer(%1,%2););
+		);
+	);
+</action>
+
+<action name="toggleWebsite_websiteViewer">
+	js(invokePluginFunction(websiteViewer, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_websiteViewer">
+	if(ptplugin[websiteViewer].doNotDeleteMe,
+		set(ptplugin[websiteViewer].doNotDeleteMe, false);
+	,
+	js(invokePluginFunction(websiteViewer, closeKolorBox));
+	);
+</action>
+
+<action name="closeKolorBoxCallback_websiteViewer">
+	
+	set(ptplugin[websiteViewer].doNotDeleteMe, false);
+	set(ptplugin[websiteViewer].isOpen, false);
+</action>
+
+<action name="changeLanguage_websiteViewer">
+	if(ptplugin[websiteViewer].jsready,
+		stopdelayedcall(delay_websiteViewer);
+		js(invokePluginFunction(websiteViewer, changeLanguage));
+	,
+		delayedcall(delay_websiteViewer, 0.1, changeLanguage_websiteViewer(););
+	);
+</action>
+
+<events name="kolorBoxEvents_websiteViewer" 
+	keep="true"
+	onremovedisplayedobject="ifnot(ptplugin[websiteViewer].currentCall,if(ptplugin[websiteViewer].isOpen,closeKolorBox_websiteViewer();););"
+	changetourlanguage="changeLanguage_websiteViewer();"
+	/>
+
+<!-- ********** -->
+<!-- Website Box1 -->
+<!-- id : websiteViewer1 -->
+<!-- ********** -->
+
+<ptplugin name="websiteViewer1" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="98" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="98" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.80000000000000004" type="float" />
+		<option name="container_topleft_border_radius" value="4" type="int" />
+		<option name="container_topright_border_radius" value="4" type="int" />
+		<option name="container_bottomleft_border_radius" value="4" type="int" />
+		<option name="container_bottomright_border_radius" value="4" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="000000" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="111111" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="title_displayed" value="true" type="bool" />
+		<option name="title_position" value="topleft" type="string" />
+		<option name="title_font" value="Verdana" type="string" />
+		<option name="title_size" value="14" type="int" />
+		<option name="title_weight" value="normal" type="string" />
+		<option name="title_style" value="normal" type="string" />
+		<option name="title_decoration" value="none" type="string" />
+		<option name="title_color" value="36302a" type="string" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="iframe_scrolling" value="no" type="string" />
+		<option name="iframe_default_width" value="1140" type="int" />
+		<option name="iframe_default_height" value="800" type="int" />
+		<option name="iframe_devices_width" value="1140" type="int" />
+		<option name="iframe_devices_height" value="800" type="int" />
+		<option name="force_ios_scrolling" value="true" type="bool" />
+		<option name="fullscreen_displayed" value="false" type="bool" />
+		<option name="fullscreen_position" value="topright" type="string" />
+		<option name="fullscreen_text" value="websiteViewer1fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="websiteViewer1close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_websiteViewer1')" type="string" />
+		<option name="zorder" value="12" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_websiteViewer1">
+	set(ptplugin[websiteViewer1].jsready, true);
+</action>
+
+<action name="openWebsite_websiteViewer1">
+	ifnot(ptplugin[websiteViewer1].isOpen,
+		if(ptplugin[websiteViewer1].doNotDeleteMe,
+			set(ptplugin[websiteViewer1].currentCall, false);
+		set(ptplugin[websiteViewer1].isOpen, true);
+		set(ptplugin[websiteViewer1].doNotDeleteMe, false);
+		getmessage(websiteViewer1_boxurl, %1);
+		txtadd(websiteViewer1_boxurl, ?iframe=true);
+		
+		js(invokePluginFunction(websiteViewer1, loadSingleArrayItem, get(websiteViewer1_boxurl), %2));
+		,
+			set(ptplugin[websiteViewer1].currentCall, true);
+			set(ptplugin[websiteViewer1].doNotDeleteMe, true);
+			events.dispatch(onremovedisplayedobject);
+			delayedcall(0.3,openWebsite_websiteViewer1(%1,%2););
+		);
+	,
+		if('%1' != websiteViewer1_boxurl,
+			closeKolorBox_websiteViewer1();
+			delayedcall(0.3,openWebsite_websiteViewer1(%1,%2););
+		);
+	);
+</action>
+
+<action name="toggleWebsite_websiteViewer1">
+	js(invokePluginFunction(websiteViewer1, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_websiteViewer1">
+	if(ptplugin[websiteViewer1].doNotDeleteMe,
+		set(ptplugin[websiteViewer1].doNotDeleteMe, false);
+	,
+	js(invokePluginFunction(websiteViewer1, closeKolorBox));
+	);
+</action>
+
+<action name="closeKolorBoxCallback_websiteViewer1">
+	
+	set(ptplugin[websiteViewer1].doNotDeleteMe, false);
+	set(ptplugin[websiteViewer1].isOpen, false);
+</action>
+
+<action name="changeLanguage_websiteViewer1">
+	if(ptplugin[websiteViewer1].jsready,
+		stopdelayedcall(delay_websiteViewer1);
+		js(invokePluginFunction(websiteViewer1, changeLanguage));
+	,
+		delayedcall(delay_websiteViewer1, 0.1, changeLanguage_websiteViewer1(););
+	);
+</action>
+
+<events name="kolorBoxEvents_websiteViewer1" 
+	keep="true"
+	onremovedisplayedobject="ifnot(ptplugin[websiteViewer1].currentCall,if(ptplugin[websiteViewer1].isOpen,closeKolorBox_websiteViewer1();););"
+	changetourlanguage="changeLanguage_websiteViewer1();"
+	/>
+
+<!-- ********** -->
+<!-- Website Box5 -->
+<!-- id : websiteViewer5 -->
+<!-- ********** -->
+
+<ptplugin name="websiteViewer5" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="15" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="98" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="98" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.90000762951094837" type="float" />
+		<option name="container_topleft_border_radius" value="3" type="int" />
+		<option name="container_topright_border_radius" value="3" type="int" />
+		<option name="container_bottomleft_border_radius" value="3" type="int" />
+		<option name="container_bottomright_border_radius" value="3" type="int" />
+		<option name="container_border_width" value="6" type="int" />
+		<option name="container_border_color" value="ece9e0" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="222222" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="title_displayed" value="true" type="bool" />
+		<option name="title_position" value="topleft" type="string" />
+		<option name="title_font" value="Trebuchet MS" type="string" />
+		<option name="title_size" value="16" type="int" />
+		<option name="title_weight" value="bold" type="string" />
+		<option name="title_style" value="normal" type="string" />
+		<option name="title_decoration" value="none" type="string" />
+		<option name="title_color" value="36302a" type="string" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="iframe_scrolling" value="auto" type="string" />
+		<option name="iframe_default_width" value="740" type="int" />
+		<option name="iframe_default_height" value="426" type="int" />
+		<option name="iframe_devices_width" value="740" type="int" />
+		<option name="iframe_devices_height" value="426" type="int" />
+		<option name="force_ios_scrolling" value="true" type="bool" />
+		<option name="fullscreen_displayed" value="false" type="bool" />
+		<option name="fullscreen_position" value="bottomright" type="string" />
+		<option name="fullscreen_text" value="websiteViewer5fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="websiteViewer5close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_websiteViewer5')" type="string" />
+		<option name="zorder" value="13" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_websiteViewer5">
+	set(ptplugin[websiteViewer5].jsready, true);
+</action>
+
+<action name="openWebsite_websiteViewer5">
+	ifnot(ptplugin[websiteViewer5].isOpen,
+		if(ptplugin[websiteViewer5].doNotDeleteMe,
+			set(ptplugin[websiteViewer5].currentCall, false);
+		set(ptplugin[websiteViewer5].isOpen, true);
+		set(ptplugin[websiteViewer5].doNotDeleteMe, false);
+		getmessage(websiteViewer5_boxurl, %1);
+		txtadd(websiteViewer5_boxurl, ?iframe=true);
+		
+		js(invokePluginFunction(websiteViewer5, loadSingleArrayItem, get(websiteViewer5_boxurl), %2));
+		,
+			set(ptplugin[websiteViewer5].currentCall, true);
+			set(ptplugin[websiteViewer5].doNotDeleteMe, true);
+			events.dispatch(onremovedisplayedobject);
+			delayedcall(0.3,openWebsite_websiteViewer5(%1,%2););
+		);
+	,
+		if('%1' != websiteViewer5_boxurl,
+			closeKolorBox_websiteViewer5();
+			delayedcall(0.3,openWebsite_websiteViewer5(%1,%2););
+		);
+	);
+</action>
+
+<action name="toggleWebsite_websiteViewer5">
+	js(invokePluginFunction(websiteViewer5, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_websiteViewer5">
+	if(ptplugin[websiteViewer5].doNotDeleteMe,
+		set(ptplugin[websiteViewer5].doNotDeleteMe, false);
+	,
+	js(invokePluginFunction(websiteViewer5, closeKolorBox));
+	);
+</action>
+
+<action name="closeKolorBoxCallback_websiteViewer5">
+	
+	set(ptplugin[websiteViewer5].doNotDeleteMe, false);
+	set(ptplugin[websiteViewer5].isOpen, false);
+</action>
+
+<action name="changeLanguage_websiteViewer5">
+	if(ptplugin[websiteViewer5].jsready,
+		stopdelayedcall(delay_websiteViewer5);
+		js(invokePluginFunction(websiteViewer5, changeLanguage));
+	,
+		delayedcall(delay_websiteViewer5, 0.1, changeLanguage_websiteViewer5(););
+	);
+</action>
+
+<events name="kolorBoxEvents_websiteViewer5" 
+	keep="true"
+	onremovedisplayedobject="ifnot(ptplugin[websiteViewer5].currentCall,if(ptplugin[websiteViewer5].isOpen,closeKolorBox_websiteViewer5();););"
+	changetourlanguage="changeLanguage_websiteViewer5();"
+	/>
+
+<!-- ********** -->
+<!-- Website Box6 -->
+<!-- id : websiteViewer6 -->
+<!-- ********** -->
+
+<ptplugin name="websiteViewer6" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="external_padding" value="6" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="98" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="98" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="1a1a1a" type="string" />
+		<option name="container_alpha" value="0.90000762951094837" type="float" />
+		<option name="container_topleft_border_radius" value="2" type="int" />
+		<option name="container_topright_border_radius" value="2" type="int" />
+		<option name="container_bottomleft_border_radius" value="2" type="int" />
+		<option name="container_bottomright_border_radius" value="2" type="int" />
+		<option name="container_border_width" value="2" type="int" />
+		<option name="container_border_color" value="ece9e0" type="string" />
+		<option name="container_border_alpha" value="1" type="float" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="1a1a1a" type="string" />
+		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
+
+		<option name="title_displayed" value="true" type="bool" />
+		<option name="title_position" value="topleft" type="string" />
+		<option name="title_font" value="Trebuchet MS" type="string" />
+		<option name="title_size" value="14" type="int" />
+		<option name="title_weight" value="normal" type="string" />
+		<option name="title_style" value="normal" type="string" />
+		<option name="title_decoration" value="none" type="string" />
+		<option name="title_color" value="363636" type="string" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="iframe_scrolling" value="no" type="string" />
+		<option name="iframe_default_width" value="1075" type="int" />
+		<option name="iframe_default_height" value="750" type="int" />
+		<option name="iframe_devices_width" value="1080" type="int" />
+		<option name="iframe_devices_height" value="750" type="int" />
+		<option name="force_ios_scrolling" value="true" type="bool" />
+		<option name="fullscreen_displayed" value="false" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" />
+		<option name="fullscreen_text" value="websiteViewer6fullscreen_text" type="string" />
+
+
+
+
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_text" value="websiteViewer6close_text" type="string" />
+
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback_websiteViewer6')" type="string" />
+		<option name="zorder" value="14" type="int" />
+		<option name="use_i18n" value="true" type="bool" />
+	</settings>
+	<internaldata>
+		
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady_websiteViewer6">
+	set(ptplugin[websiteViewer6].jsready, true);
+</action>
+
+<action name="openWebsite_websiteViewer6">
+	ifnot(ptplugin[websiteViewer6].isOpen,
+		if(ptplugin[websiteViewer6].doNotDeleteMe,
+			set(ptplugin[websiteViewer6].currentCall, false);
+		set(ptplugin[websiteViewer6].isOpen, true);
+		set(ptplugin[websiteViewer6].doNotDeleteMe, false);
+		getmessage(websiteViewer6_boxurl, %1);
+		txtadd(websiteViewer6_boxurl, ?iframe=true);
+		
+		js(invokePluginFunction(websiteViewer6, loadSingleArrayItem, get(websiteViewer6_boxurl), %2));
+		,
+			set(ptplugin[websiteViewer6].currentCall, true);
+			set(ptplugin[websiteViewer6].doNotDeleteMe, true);
+			events.dispatch(onremovedisplayedobject);
+			delayedcall(0.3,openWebsite_websiteViewer6(%1,%2););
+		);
+	,
+		if('%1' != websiteViewer6_boxurl,
+			closeKolorBox_websiteViewer6();
+			delayedcall(0.3,openWebsite_websiteViewer6(%1,%2););
+		);
+	);
+</action>
+
+<action name="toggleWebsite_websiteViewer6">
+	js(invokePluginFunction(websiteViewer6, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox_websiteViewer6">
+	if(ptplugin[websiteViewer6].doNotDeleteMe,
+		set(ptplugin[websiteViewer6].doNotDeleteMe, false);
+	,
+	js(invokePluginFunction(websiteViewer6, closeKolorBox));
+	);
+</action>
+
+<action name="closeKolorBoxCallback_websiteViewer6">
+	
+	set(ptplugin[websiteViewer6].doNotDeleteMe, false);
+	set(ptplugin[websiteViewer6].isOpen, false);
+</action>
+
+<action name="changeLanguage_websiteViewer6">
+	if(ptplugin[websiteViewer6].jsready,
+		stopdelayedcall(delay_websiteViewer6);
+		js(invokePluginFunction(websiteViewer6, changeLanguage));
+	,
+		delayedcall(delay_websiteViewer6, 0.1, changeLanguage_websiteViewer6(););
+	);
+</action>
+
+<events name="kolorBoxEvents_websiteViewer6" 
+	keep="true"
+	onremovedisplayedobject="ifnot(ptplugin[websiteViewer6].currentCall,if(ptplugin[websiteViewer6].isOpen,closeKolorBox_websiteViewer6();););"
+	changetourlanguage="changeLanguage_websiteViewer6();"
+	/>
+
+<!-- ********** -->
+<!-- Context menu -->
+<!-- id : contextmenu -->
+<!-- ********** -->
+  <contextmenu fullscreen="false" versioninfo="false" touch="true">
+    <item name="author" onclick="getmessage(urltoopen,project_author_url);openurl(get(urltoopen),_blank);" />
+  </contextmenu>
+
+  <events name="contextmenuevents" keep="true" 
+    onenterfullscreen="updateContextMenu" onexitfullscreen="updateContextMenu" 
+    onxmlcomplete="updateContextMenu" 
+    changetourlanguage="updateContextMenu" 
+    />
+  <events name="contextmenuvrevents" keep="true" 
+    onvravailable="updateContextMenu();" onvrunavailable="updateContextMenu();"
+    devices="html5"
+    />
+  <action name="updateContextMenu">
+    getmessage(contextmenu.item[author].caption, project_author_name);
+  </action>
+
+
+<!-- DEBUG PLUGIN - PANORAMA LIST -->
+<!-- There are 60 panoramas in the tour -->
+<!-- PANORAMA - ID - DIRECTORY
+WEST FRONT;pano27;west_side_piazza_27
+EAST FRONT &amp; PIAZZA;pano28;east_front_28
+NEW ROOM;pano31;new_room_31
+WEST PARLOR;pano30;west_parlor_30
+LITTLE PARLOR;pano23;little_parlor_23
+CENTRAL PASSAGE;pano24;central_passage_24
+OLD CHAMBER;pano50;downstairs_bedchambe_50
+DINING ROOM;pano22;small_dining_room_22
+STUDY;pano33;study_33
+SECOND FLOOR PASSAGE;pano52;upstairs_landing_52
+BLUE ROOM;pano29;blue_bedchamber_29
+LAFAYETTE ROOM;pano26;lafayette_bedchamber_26
+CHINTZ ROOM;pano29586;chintz_room_29586
+YELLOW ROOM;pano20;yellow_bedchamber_20
+WASHINGTON BEDCHAMBER;pano32;washington_bedchambe_32
+GARRET BEDCHAMBER;pano18;garret_bedchamber_18
+CUPOLA INTERIOR;pano21;cupola_interior_21
+CELLAR;pano19;basement_19
+KITCHEN;pano7006;kitchen_7006
+SERVANT&#39;S HALL;pano29591;servants_hall_29591
+SMOKEHOUSE;pano7028;smokehouse_7028
+STOREHOUSE;pano20544;storehouse_20544
+GARDENER&#39;S HOUSE;pano29587;gardener_s_house_29587
+SALT HOUSE;pano29590;salt_house_29590
+SPINNING ROOM;pano20540;spinning_room_20540
+BLACKSMITH SHOP;pano7008;blacksmith_shop_7008
+OVERSEER&#39;S QUARTERS;pano20542;overseer_s_quarters_20542
+MEN&#39;S SLAVE QUARTERS;pano7036;male_slave_quarters_7036
+WOMEN&#39;S SLAVE QUARTERS;pano7038;female_slave_quarter_7038
+SLAVE CABIN YARD;pano29592;slave_cabin_exterior_29592
+SLAVE CABIN;pano7042;slave_cabin_7042
+16-SIDED BARN;pano7040;_16_sided_barn_7040
+STABLE;pano7026;stable_7026
+BOWLING GREEN;pano7014;bowling_green_7014
+UPPER GARDEN;pano7010;upper_garden_7010
+NORTH LANE;pano88;north_lane_88
+SOUTH LANE;pano90;south_lane_90
+LOWER GARDEN;pano7012;lower_garden_7012
+FRUIT GARDEN &amp; NURSERY;pano86;fruit_garden___nurse_86
+OLD TOMB;pano94;old_tomb_94
+NEW TOMB;pano96;new_tomb_96
+SLAVE MEMORIAL;pano98;slave_memorial_98
+POTOMAC WHARF;pano102;potomac_wharf_102
+PIONEER FARM;pano100;pioneer_farm_100
+ANIMAL PENS;pano92;animal_pens_92
+WEST GATE;pano104;west_gate_104
+NECESSARY;pano29588;necessary_29588
+OUTSIDE VIEW;pano58;outside_view_58
+GRISTMILL FIRST FLOOR;pano106;gristmill_floor_1_106
+GRISTMILL SECOND FLOOR;pano108;gristmill_floor_2_108
+GRISTMILL THIRD FLOOR;pano110;gristmill_floor_3_110
+GRISTMILL FOURTH FLOOR;pano112;gristmill_floor_4_112
+THE DISTILLERY;pano114;distillery_floor_1_114
+LIBRARY FRONT;pano149;library_front_149
+READING ROOM;pano151;reading_room_151
+DOCUMENT ROOM;pano153;document_room_153
+RARE BOOKS SUITE;pano155;rare_books_suite_155
+RECEPTION HALL;pano157;reception_hall_157
+LEADERSHIP HALL;pano159;leadership_hall_159
+LIBRARY REAR;pano161;library_rear_161
+-->
+
+<!-- ********** -->
+<!-- Call actions on tour events -->
+<!-- id : eventsPlugin -->
+<!-- ********** -->
+
+  <events name="eventsPluginevents" keep="true"/>
+
+<!-- ********** -->
+<!-- Button13 -->
+<!-- id : button13 -->
+<!-- ********** -->
+
+  <layer name="button13"
+         keep="true"
+         url="%FIRSTXML%/graphics/button13/nextpano.png"
+         align="bottomright"
+         x="0"
+         y="1"
+         zorder="18"
+         visible="false"
+         onclick="button13OnClick"
+         height="60"
+         width="60"
+         />
+
+
+
+  <action name="button13OnClick">loadNextScene();
+
+
+  </action>
+
+  <events name="button13events"
+    onTourStart="showbutton13();"
+    keep="true" />
+  <action name="hidebutton13">set(layer[button13].visible, false);</action>
+  <action name="showbutton13">set(layer[button13].visible, true);</action>
+
+
+<!-- ********** -->
+<!-- Toggle Button5 -->
+<!-- id : togglebutton5 -->
+<!-- ********** -->
+
+
+
+  <layer name="togglebutton5"
+         keep="true"
+         url="%FIRSTXML%/graphics/togglebutton5/menu-on4.png" 
+         align="bottomright"
+         x="52"
+         y="0"
+         zorder="19"
+         tooltip=""
+         onhover="togglebutton5OnHover"
+         state="true"
+         onclick="togglebutton5OnClick"
+         onout="hideTooltip();"
+         height="60"
+         width="60"
+         visible="false"
+         />
+
+  <action name="togglebutton5OnHover">
+    if (state,
+      set(tooltip, togglebutton5firsttooltip);
+     ,
+      set(tooltip, togglebutton5secondtooltip);
+    );
+    if (tooltip != "", showTooltip('plugin'););
+  </action>
+  <action name="togglebutton5OnClick">
+    if (state,
+      set(state, false);showTourControls();
+
+showTourInfo();
+
+
+showTourInfo();
+
+
+      set(url,%FIRSTXML%/graphics/togglebutton5/menu-off4.png);
+     ,
+      set(state, true);hideTourControls();
+
+
+      set(url,%FIRSTXML%/graphics/togglebutton5/menu-on4.png);
+    );
+  </action>
+
+  <events name="togglebutton5events" 
+    onTourStart="showtogglebutton5();"
+    keep="true" />
+  <action name="hidetogglebutton5">set(layer[togglebutton5].visible, false);</action>
+  <action name="showtogglebutton5">set(layer[togglebutton5].visible, true);</action>
+
+
+  <!-- MAP -->
+  <action name="hideMap">set(tour_displaymap, false);events.dispatch(onhidetourmap);</action>
+  <action name="showMap">set(tour_displaymap, true); events.dispatch(onshowtourmap);</action>
+
+  <!-- Tour Information -->
+  <action name="hideTourInfo">set(tour_displayinfo, false);events.dispatch(onhidetourinfo);</action>
+  <action name="showTourInfo">set(tour_displayinfo, true); events.dispatch(onshowtourinfo);</action>
+
+
+  <!-- FLOORPLAN -->
+  <action name="hideFloorplan">set(tour_displayfloorplan, false);events.dispatch(onhidetourfloorplan);</action>
+  <action name="showFloorplan">set(tour_displayfloorplan, true); events.dispatch(onshowtourfloorplan);</action>
+
+
+  <action name="displayVideo">
+    set(displayedVideoObjectToCreate, true);
+    set(displayedVideoObjectForDesktop, true);
+    if(%10,
+      set(displayedVideoObjectForDesktop, false);
+    ,
+      if (device.tablet, set(displayedVideoObjectForDesktop, false););
+      if (device.mobile, set(displayedVideoObjectForDesktop, false););
+    );
+    
+    if (layer[displayedStandardVideo],
+      if(layer[displayedStandardVideo].donotdeleteme,
+        set(layer[displayedStandardVideo].fromdesktop, get(displayedVideoObjectForDesktop));
+        set(layer[displayedStandardVideo].currentCall, false);
+        set(layer[displayedStandardVideo].visible, true);
+        if(layer[displayedStandardVideo].overlay,set(layer[displayedStandardVideoOverlayBkg].visible, true););
+        set(layer[displayedStandardVideo].donotdeleteme, false);
+        set(layer[displayedStandardVideo].pausebgsound, %11);
+        if (%1 == layer[displayedStandardVideo].videourl,
+          layer[displayedStandardVideo].stop();
+          ifnot(layer[displayedStandardVideo].fromdesktop,
+            removelayer(displayedStandardVideoOverlayButton);
+            removelayer(displayedStandardVideoOverlay);
+          );resumeautorotation(forcehotspot);
+
+          delete(tour_current_played_video);
+          set(tour_current_played_video_state, 0);
+          if(layer[displayedStandardVideo].overlay,removelayer(displayedStandardVideoOverlayBkg););
+          removelayer(displayedStandardVideo);
+        ,
+          
+          set(tour_current_played_video, %1);
+          if(tour_current_played_sound,
+            set(tour_current_played_video_state, 2);
+          ,
+            set(tour_current_played_video_state, 1);
+          );
+          set(layer[displayedStandardVideo].onloaded, displayVideoWhenLoaded(%1,%10););
+          set(layer[displayedStandardVideo].autoresume, true);
+          if(device.html5,
+            set(layer[displayedStandardVideo].url, %FIRSTXML%/graphics/videoplayer.js);
+          ,
+          );
+        );
+      ,
+        events.dispatch(onremovedisplayedobject);
+        if (%1 != layer[displayedStandardVideo].videourl,
+          delayedcall(0.2,displayVideo(%1, %2, %3, %4, %5, %6, %7, %8, %9, %10, %11, %12, %13, %14););
+        );
+      );
+    ,
+      if(%12,
+        addlayer(displayedStandardVideoOverlayBkg);
+        set(layer[displayedStandardVideoOverlayBkg].keep, false);
+        set(layer[displayedStandardVideoOverlayBkg].visible , false);
+        set(layer[displayedStandardVideoOverlayBkg].onclick, displayedVideoObjectStartStopAction(););
+        set(layer[displayedStandardVideoOverlayBkg].zorder , 97);
+        set(layer[displayedStandardVideoOverlayBkg].type, container);
+        set(layer[displayedStandardVideoOverlayBkg].width   , 100%);
+        set(layer[displayedStandardVideoOverlayBkg].height  , 100%);
+        set(layer[displayedStandardVideoOverlayBkg].bgcolor, "0x%13");
+        set(layer[displayedStandardVideoOverlayBkg].bgalpha, %14);
+        set(layer[displayedStandardVideoOverlayBkg].bgcapture, true);
+      );
+      addlayer(displayedStandardVideo);
+      set(layer[displayedStandardVideo].keep, false);
+      set(layer[displayedStandardVideo].visible , false);
+      set(layer[displayedStandardVideo].onclick, displayedVideoObjectStartStopAction(););
+      set(layer[displayedStandardVideo].zorder , 98);
+      set(layer[displayedStandardVideo].align   , %2);
+      set(layer[displayedStandardVideo].x       , %3);
+      set(layer[displayedStandardVideo].y       , %4);
+      set(layer[displayedStandardVideo].width   , %5);
+      set(layer[displayedStandardVideo].height  , %6);
+      set(layer[displayedStandardVideo].overlay , %12);
+      set(layer[displayedStandardVideo].iphoneworkarounds, false);
+      
+      if (%7,
+        set(layer[displayedStandardVideo].loop, true);
+       ,
+        set(layer[displayedStandardVideo].onvideocomplete, displayedVideoObjectStartStopAction(););
+      );
+      if (displayedVideoObjectForDesktop,
+        set(layer[displayedStandardVideo].pausedonstart, false);
+        set(layer[displayedStandardVideo].onvideoready, set(layer[displayedStandardVideo].visible, true);if(layer[displayedStandardVideo].overlay,set(layer[displayedStandardVideoOverlayBkg].visible, true);););
+      ,
+        
+        set(layer[displayedStandardVideo].pausedonstart, true);
+        set(layer[displayedStandardVideo].onvideoready, set(layer[displayedStandardVideo].started, false);set(layer[displayedStandardVideo].visible, true);if(layer[displayedStandardVideo].overlay,set(layer[displayedStandardVideoOverlayBkg].visible, true););delayedcall(0.1,applyDisplayedStandardVideoOverlay(%1, %2, %3, %4, %5, %6, %7, %8, %9, %10, %11)););
+      );
+      
+      set(layer[displayedStandardVideo].currentCall, true);
+      set(layer[displayedStandardVideo].donotdeleteme, true);
+      events.dispatch(onremovedisplayedobject);
+      delayedcall(0.2,displayVideo(%1, %2, %3, %4, %5, %6, %7, %8, %9, %10, %11, %12, %13, %14););
+      if (%8,pauseautorotation(forcehotspot);
+);
+    );
+  </action>
+  <action name="applyDisplayedStandardVideoOverlay">
+      addlayer(displayedStandardVideoOverlay);
+      
+      set(layer[displayedStandardVideoOverlay].type, container);
+      set(layer[displayedStandardVideoOverlay].visible, true);
+      set(layer[displayedStandardVideoOverlay].zorder, 99);
+      set(layer[displayedStandardVideoOverlay].keep, false);
+      set(layer[displayedStandardVideoOverlay].align, %2);
+      set(layer[displayedStandardVideoOverlay].x, %3);
+      set(layer[displayedStandardVideoOverlay].y, %4);
+      set(layer[displayedStandardVideoOverlay].width, get(layer[displayedStandardVideo].pixelwidth));
+      set(layer[displayedStandardVideoOverlay].height, get(layer[displayedStandardVideo].pixelheight));
+      
+      addlayer(displayedStandardVideoOverlayButton);
+      set(layer[displayedStandardVideoOverlayButton].visible, true);
+      set(layer[displayedStandardVideoOverlayButton].keep, false);
+      set(layer[displayedStandardVideoOverlayButton].parent, displayedStandardVideoOverlay);
+      set(layer[displayedStandardVideoOverlayButton].align, center);
+      set(layer[displayedStandardVideoOverlayButton].url, %FIRSTXML%/graphics/videoplayer_play_button.png);
+      set(layer[displayedStandardVideoOverlayButton].width, 50);
+      set(layer[displayedStandardVideoOverlayButton].height, 50);
+      set(layer[displayedStandardVideoOverlayButton].alpha, 0.5);
+      set(layer[displayedStandardVideoOverlayButton].enabled, false);
+      set(layer[displayedStandardVideoOverlayButton].capture, false);
+      set(layer[displayedStandardVideoOverlayButton].onclick, displayedVideoObjectStartStopAction(););
+  </action>
+  <action name="displayVideoWhenLoaded">
+    layer[displayedStandardVideo].playVideo(%1,,%2);
+    ifnot(tour_soundson,
+      pauseVideoActionsSounds();
+    );
+  </action>
+  <action name="displayedVideoObjectStartStopAction">
+    if(layer[displayedStandardVideo].fromdesktop,
+      layer[displayedStandardVideo].stop();
+      set(layer[displayedStandardVideo].visible, false);
+      if(layer[displayedStandardVideo].overlay,set(layer[displayedStandardVideoOverlayBkg].visible, false););resumeautorotation(forcehotspot);
+
+      delete(tour_current_played_video);
+      set(tour_current_played_video, null);
+      set(tour_current_played_video_state, 0);
+      if(layer[displayedStandardVideo].overlay,removelayer(displayedStandardVideoOverlayBkg););
+      removelayer(displayedStandardVideo);
+    ,
+      if (layer[displayedStandardVideo].started == false,
+        set(layer[displayedStandardVideo].visible , true);
+        if(layer[displayedStandardVideo].overlay,set(layer[displayedStandardVideoOverlayBkg].visible, true););
+        set(layer[displayedStandardVideoOverlay].visible , false);
+        removelayer(displayedStandardVideoOverlayButton);
+        removelayer(displayedStandardVideoOverlay);
+        set(layer[displayedStandardVideo].started, true);
+        layer[displayedStandardVideo].play();
+        ifnot(tour_soundson,
+          pauseVideoActionsSounds();
+        );
+      ,
+        layer[displayedStandardVideo].stop();
+        set(layer[displayedStandardVideo].visible , false);
+        if(layer[displayedStandardVideo].overlay,set(layer[displayedStandardVideoOverlayBkg].visible, false););resumeautorotation(forcehotspot);
+
+        delete(tour_current_played_video);
+        set(tour_current_played_video, null);
+        set(tour_current_played_video_state, 0);
+        if(layer[displayedStandardVideo].overlay,removelayer(displayedStandardVideoOverlayBkg););
+        removelayer(displayedStandardVideo);
+      );
+    );
+  </action>
+  <events name="displayedVideoObjectEvents" keep="true" onremovedisplayedobject="displayedVideoObjectOnRemoveDisplayedObject"/>
+  <action name="displayedVideoObjectOnRemoveDisplayedObject">
+    ifnot(layer[displayedStandardVideo].currentCall,
+      if(layer[displayedStandardVideo].visible,
+        layer[displayedStandardVideo].stop();
+        ifnot(layer[displayedStandardVideo].fromdesktop,
+          removelayer(displayedStandardVideoOverlayButton);
+          removelayer(displayedStandardVideoOverlay);
+        );
+        set(layer[displayedStandardVideo].visible , false);
+        if(layer[displayedStandardVideo].overlay,set(layer[displayedStandardVideoOverlayBkg].visible, false););resumeautorotation(forcehotspot);
+
+        delete(tour_current_played_video);
+        set(tour_current_played_video, null);
+        set(tour_current_played_video_state, 0);
+        if(layer[displayedStandardVideo].overlay,removelayer(displayedStandardVideoOverlayBkg););
+        removelayer(displayedStandardVideo);
+      );
+    );
+  </action>
+
+  <action name="displayWebVideo">
+    if(layer[webvideodisplay_bg],
+
+    ,
+      <!-- add overlay -->
+      addlayer(webvideodisplay_bg);
+      set(layer[webvideodisplay_bg].type, container);
+      set(layer[webvideodisplay_bg].zorder, 98);
+      set(layer[webvideodisplay_bg].align, topleft);
+      set(layer[webvideodisplay_bg].width, 100%);
+      set(layer[webvideodisplay_bg].height, 100%);
+      set(layer[webvideodisplay_bg].bgcolor, %16);
+      set(layer[webvideodisplay_bg].bgalpha, %17);
+      set(layer[webvideodisplay_bg].bgcapture, true);
+      set(layer[webvideodisplay_bg].handcursor, false);
+      set(layer[webvideodisplay_bg].alpha, 0.0);
+      set(layer[webvideodisplay_bg].onclick, displayWebVideoObjectClose() );
+      tween(layer[webvideodisplay_bg].alpha, 1.0, 0.5, default,
+
+
+        addlayer(webvideodisplay_player);
+        set(layer[webvideodisplay_player].parent, layer[webvideodisplay_bg]);
+        set(layer[webvideodisplay_player].align, %13);
+        set(layer[webvideodisplay_player].x, %14);
+        set(layer[webvideodisplay_player].y, %15);
+        set(layer[webvideodisplay_player].alpha, 0.0);
+        set(layer[webvideodisplay_player].pauseautorotate, %18);
+        set(layer[webvideodisplay_player].pausebgsound, %19);
+
+        sub(maxstagewidth, get(stagewidth), %14);
+        sub(maxstageheight, get(stageheight), %15);
+
+        if('4:3' == '%3',
+          div(aspect, 4, 3);
+        ,
+          if('2.39:1' == '%3',
+            div(aspect, 2.39, 1);
+          ,
+            div(aspect, 16, 9);
+          );
+        );
+        if(%9,
+          if(%10 == 'pixel',
+            set(new_videowidth, %9);
+            div(new_videoheight, get(new_videowidth), get(aspect));
+          ,
+            mul(new_videowidth, get(maxstagewidth), %9);
+            div(new_videowidth, 100);
+            div(new_videoheight, get(new_videowidth), get(aspect));
+          );
+        ,
+          ifnot(%11,
+            set(max_videoheight, %2);
+            set(new_videowidth, %1);
+            set(new_videoheight, %2);
+          );
+        );
+        if(%11,
+          ifnot(%9,
+            if(%12 == 'pixel',
+              set(new_videoheight, %11);
+              mul(new_videowidth, get(new_videoheight), get(aspect));
+            ,
+              mul(new_videoheight, get(maxstageheight), %11);
+              div(new_videoheight, 100);
+              mul(new_videowidth, get(new_videoheight), get(aspect));
+            );
+            set(max_videoheight, get(new_videoheight));
+          ,
+            if(%12 == 'pixel',
+              set(max_videoheight, %11);
+            ,
+              mul(max_videoheight, get(maxstageheight), %11);
+              div(max_videoheight, 100);
+            );
+          );
+        ,
+          set(max_videoheight, get(new_videoheight));
+        );
+        if(new_videowidth GT maxstagewidth,
+          set(new_videowidth, get(maxstagewidth));
+          div(new_videoheight, get(new_videowidth), get(aspect));
+        );
+        if(max_videoheight GT maxstageheight,
+          set(max_videoheight, get(maxstageheight));
+        );
+        if(new_videoheight GT max_videoheight,
+          set(new_videoheight, get(max_videoheight));
+          mul(new_videowidth, get(new_videoheight), get(aspect));
+        );
+        roundval(new_videowidth);
+        roundval(new_videoheight);
+        set(layer[webvideodisplay_player].width, get(new_videowidth));
+        set(layer[webvideodisplay_player].height, get(new_videoheight));
+
+        set(tour_current_played_web_video, %8);
+
+        if(device.html5,
+
+          txtadd(iframecode, '[iframe width="',get(layer[webvideodisplay_player].width),'" height="',get(layer[webvideodisplay_player].height),'" src="','%4','%8','?','%6','" frameborder="0" allowfullscreen][/iframe]');
+          set(layer[webvideodisplay_player].html, get(iframecode));
+          set(layer[webvideodisplay_player].padding, 0);
+          set(layer[webvideodisplay_player].type, 'text');
+          set(layer[webvideodisplay_player].onloaded, displayWebVideoObjectReady() );
+        ,
+
+          txtadd(embedurl, '%5','%8','%7');
+          set(layer[webvideodisplay_player].onloaded, registercontentsize(%1,%2);displayWebVideoObjectReady(); );
+          set(layer[webvideodisplay_player].url, get(embedurl));
+        );
+      );
+    );
+  </action>
+  <action name="displayWebVideoObjectReady">
+    if(layer[webvideodisplay_player],
+      set(layer[webvideodisplay_player].currentCall, true);
+      events.dispatch(onremovedisplayedobject);
+      tween(layer[webvideodisplay_player].alpha, 1.0, default, default,
+        if(layer[webvideodisplay_player].pauseautorotate,pauseautorotation(forcehotspot);
+);
+      );
+    );
+  </action>
+  <action name="displayWebVideoObjectClose">
+    if(layer[webvideodisplay_player],
+      if(layer[webvideodisplay_player].currentCall,
+        set(layer[webvideodisplay_player].currentCall, false);
+      ,
+        set(layer[webvideodisplay_bg].onclick, null);
+        delete(tour_current_played_web_video);
+        tween(layer[webvideodisplay_player].alpha, 0.0, 0.25, default);
+        tween(layer[webvideodisplay_bg].alpha,0.0, 0.50, default,
+          if(layer[webvideodisplay_player].pauseautorotate,resumeautorotation(forcehotspot);
+);
+          removelayer(webvideodisplay_bg);
+          removelayer(webvideodisplay_player);
+        );
+      );
+    );
+  </action>
+  <events name="displayWebVideoObjectEvents" keep="true" onremovedisplayedobject="displayWebVideoObjectClose();"/>
+
+  <!-- Hide / Show Controls -->
+  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
+  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
+
+
+</krpano>

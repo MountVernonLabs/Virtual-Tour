@@ -1,0 +1,34 @@
+.kolorMenuContainer, .kolorMenuGroup {
+	background: #002c3d !important;
+	opacity: .9;
+}
+.kolorMenuItem p {
+	border: 0px !important;
+	background: #002c3d !important;
+	font-family: "Gotham SSm A", "Gotham SSm B" !important;
+	font-size: 8pt !important;
+}
+#tourDIV, #krpanoSWFObject {
+	font-family: "Gotham SSm A", "Gotham SSm B" !important;
+}
+
+.kolorAreaTitle {
+	font-family: "Gotham SSm A", "Gotham SSm B" !important;
+	font-size: 12pt !important;
+}
+.kolorAreaContent font {
+	font-family: "Mercury Text G1 A", "Mercury Text G1 B" !important;
+}
+.kolorMenuItem p:hover {
+	background-color: #453e39 !important;
+	opacity: 1;
+}
+.kolorMenuMain {
+	background-color: transparent !important;
+}
+.kolorMenuItem p.menuSelected {
+	background-color: #009bbb !important;
+}
+.kolorArea {
+	border: 0px !important;
+}
